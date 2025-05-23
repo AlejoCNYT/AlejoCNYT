@@ -154,9 +154,6 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Wolfram_Mathematica_Logo.svg" title="Mathematica" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.svg" title="MATLAB" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Gnu-octave.svg" title="GNU Octave" height="40"/>
 </p>
 
 ---
