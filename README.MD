@@ -169,6 +169,12 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" height="40"/>
   <img src="https://vitejs.dev/logo.svg" title="Vite" height="40"/>
+  <a href="https://laravel.com/">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" title="Laravel" height="30"/>
+</ a>
+<a href="https://www.w3.org/XML/">
+  <img src="https://img.shields.io/badge/XML-000000?logo=w3c&logoColor=white" title="XML" height="30"/>
+</a>
 </p>
 
 ---
@@ -196,6 +202,12 @@ I'm currently open to internships, research collaborations, and open-source cont
   <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah_UML-1C1C1C?logo=uml&logoColor=white" height="30"/></a>
   <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Cisco%20PacketTracer-1BA0D7?logo=cisco&logoColor=white" height="30"/></a>
   <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" height="30"/></a>
+<a href="https://www.cisco.com/">
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" title="Cisco" height="30"/>
+</a>
+<a href="https://www.netacad.com/courses/packet-tracer">
+  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?logo=cisco&logoColor=white" title="Cisco Packet Tracer" height="30"/>
+</a>
 </p>
 
 ---
@@ -214,6 +226,14 @@ I'm currently open to internships, research collaborations, and open-source cont
   <a href="https://deepmind.google/technologies/gemini"><img src="https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white" height="30"/></a>
   <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DeepSeek_AI-1A1A1A?logo=github&logoColor=white" height="30"/></a>
   <a href="https://x.ai"><img src="https://img.shields.io/badge/Grok_xAI-000000?logo=x&logoColor=white" height="30"/></a>
+<a href="https://www.wolfram.com/mathematica/"><img src="https://img.shields.io/badge/Mathematica-DD1100?logo=wolfram&logoColor=white" title="Wolfram Mathematica" height="30"/>
+</a>
+<a href="https://www.mathworks.com/products/matlab.html">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" title="MATLAB" height="30"/>
+</a>
+<a href="https://www.gnu.org/software/octave/">
+  <img src="https://img.shields.io/badge/GNU_Octave-0790C0?logo=gnu&logoColor=white" title="GNU Octave" height="30"/>
+</a>
 </p>
 
 ---
@@ -225,6 +245,18 @@ I'm currently open to internships, research collaborations, and open-source cont
   [Backend Repository](https://github.com/Santiago-Cordoba/BombermanARSW-Back) | [Frontend Repository](https://github.com/Santiago-Cordoba/BombermanARSW-Front/tree/develop)
 
 * **Forensics Tools & Scripts** – Experiments in reverse engineering & forensic automation
+
+<a href="https://tryhackme.com">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white" title="TryHackMe" height="30"/>
+</a>
+
+<a href="https://www.hackthebox.com/">
+  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black" title="Hack The Box" height="30"/>
+</a>
+
+<a href="https://www.root-me.org/">
+  <img src="https://img.shields.io/badge/RootMe-7B16FF?logoColor=white" title="Root Me" height="30"/>
+</a>
 
 * **Economic Data Analyzer** – Interactive dashboards using Python, Pandas & Matplotlib
 
