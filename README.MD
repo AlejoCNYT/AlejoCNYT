@@ -220,6 +220,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ## 📂 Featured Projects
 
 * **Bomberman Web Multiplayer Game** – Fullstack game using Spring Boot, React, WebSocket & STOMP
+
   [Backend Repository](https://github.com/Santiago-Cordoba/BombermanARSW-Back) | [Frontend Repository](https://github.com/Santiago-Cordoba/BombermanARSW-Front/tree/develop)
 
 * **Forensics Tools & Scripts** – Experiments in reverse engineering & forensic automation
@@ -233,6 +234,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ## 🤝 Let’s Connect!
 
 📧 [danielalejandroacerovarela@outlook.com](mailto:danielalejandroacerovarela@outlook.com)
+
 📞 WhatsApp: (+57) 305 368 0338
 
 ---
