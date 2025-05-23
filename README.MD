@@ -198,20 +198,29 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
-### 🧪 Specialized Domains & Concepts
 
-- [![SymPy](https://img.shields.io/badge/SymPy-3776AB?logo=python&logoColor=white)](https://www.sympy.org)
-- [![Qiskit](https://img.shields.io/badge/Qiskit-222222?logo=IBM&logoColor=white)](https://qiskit.org)
-- [IBM Quantum](https://quantum-computing.ibm.com)
-- [Scrum](https://www.scrum.org)
-- [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
-- [Lean](https://lean.org)
-- [Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas)
-- [ChatGPT](https://chat.openai.com)
-- [Claude](https://www.anthropic.com/index/claude)
-- [Gemini](https://deepmind.google/technologies/gemini)
-- [DeepSeek](https://github.com/deepseek-ai)
-- [Grok](https://x.ai)
+### 🛠️ Tools & Platforms
+
+- [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com)
+- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+- [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](https://mariadb.org/)
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+- [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+- [![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+- [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+- [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
+- [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+- [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
+- [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/)
+- [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)
+- [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
+- [![Oracle SQL Developer](https://img.shields.io/badge/Oracle-FF0000?logo=oracle&logoColor=white)](https://www.oracle.com/database/sqldeveloper/)
+- [![Office 365](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)](https://www.microsoft.com/microsoft-365)
+- [Astah UML](https://astah.net/)
+- [![PacketTracer](https://img.shields.io/badge/Cisco%20PacketTracer-1BA0D7?logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
+- [![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 ---
 
