@@ -88,6 +88,51 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 </details>
 
+<details>
+<summary>💸 <strong>FinTech & Digital Economy</strong></summary>
+
+- Cryptocurrencies, Stablecoins, CBDCs  
+- DeFi, Smart Contracts, Tokenization (NFTs)  
+- Robo-Advisors, Algorithmic Trading, Financial Inclusion  
+
+</details>
+
+<details>
+<summary>📊 <strong>Computational Economics & Digital Modeling</strong></summary>
+
+- DSGE Models, Econometrics, Agent-Based Simulation  
+- Digital Twin Economies, Open Macroeconomic Models  
+- Behavioral Modeling via Data Science & AI  
+
+</details>
+
+<details>
+<summary>🔗 <strong>Blockchain & Distributed Ledger Tech</strong></summary>
+
+- Blockchain for Supply Chains, Identity, GovTech  
+- Zero-Knowledge Proofs (ZKP), DAOs, Decentralized Governance  
+- Web3 Protocols, Interoperability & Trust Frameworks  
+
+</details>
+
+<details>
+<summary>🧮 <strong>Advanced Analytics & Prediction</strong></summary>
+
+- Time-Series Forecasting, Anomaly Detection  
+- Real-Time Data Pipelines, Event-Driven Economies  
+- Decision Intelligence Systems, Digital Experimentation  
+
+</details>
+
+<details>
+<summary>⚙️ <strong>RegTech & Policy Automation</strong></summary>
+
+- Regulatory Sandboxes, Compliance-as-Code  
+- AI for Policy Evaluation, Smart Regulation Systems  
+- Digital Identity, Privacy Engineering, LegalTech  
+
+</details>
+
 ---
 
 > 🧹 Always exploring how software, data, and creativity can solve real-world challenges through ethical, efficient, and scalable technologies.
