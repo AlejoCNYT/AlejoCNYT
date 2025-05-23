@@ -174,28 +174,27 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 ### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MariaDB" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/VirtualBox_logo.png" title="VirtualBox" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" title="macOS" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Android_robot_2014.svg" title="Android" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" title="LaTeX" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Overleaf-logo.svg" title="Overleaf" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Oracle_logo.svg" title="Oracle SQL Developer" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" title="Office 365" height="40"/>
-  <img src="https://astah.net/wp-content/uploads/2020/03/astah-logo.png" title="Astah UML" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Cisco_logo_blue_2016.svg" title="PacketTracer" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" title="Markdown" height="40"/>
-</p>
+
+- [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com)
+- [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+- [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+- [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](https://mariadb.org/)
+- [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
+- [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
+- [![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+- [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+- [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/)
+- [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+- [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
+- [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/)
+- [![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)](https://www.latex-project.org/)
+- [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/)
+- [![Oracle SQL Developer](https://img.shields.io/badge/Oracle-FF0000?logo=oracle&logoColor=white)](https://www.oracle.com/database/sqldeveloper/)
+- [![Office 365](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)](https://www.microsoft.com/microsoft-365)
+- [Astah UML](https://astah.net/)
+- [![PacketTracer](https://img.shields.io/badge/Cisco%20PacketTracer-1BA0D7?logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
+- [![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 
 ---
 
