@@ -200,20 +200,19 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 ### 🧪 Specialized Domains & Concepts
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="SymPy (Python)" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Qiskit_logo.svg" title="Qiskit" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/IBM_Q_Experience_Logo.png" title="IBM Quantum" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/scrum.svg" title="Scrum Master" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/kanban.svg" title="Kanban" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/lean.svg" title="Lean" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/business-model-canvas.svg" title="Business Model Canvas" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/133403540?s=200&v=4" title="Claude AI" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/gemini.svg" title="Gemini AI" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/deepseek.svg" title="DeepSeek AI" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/grok.svg" title="Grok (xAI)" height="40"/>
-</p>
+
+- [![SymPy](https://img.shields.io/badge/SymPy-3776AB?logo=python&logoColor=white)](https://www.sympy.org)
+- [![Qiskit](https://img.shields.io/badge/Qiskit-222222?logo=IBM&logoColor=white)](https://qiskit.org)
+- [IBM Quantum](https://quantum-computing.ibm.com)
+- [Scrum](https://www.scrum.org)
+- [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban)
+- [Lean](https://lean.org)
+- [Business Model Canvas](https://www.strategyzer.com/canvas/business-model-canvas)
+- [ChatGPT](https://chat.openai.com)
+- [Claude](https://www.anthropic.com/index/claude)
+- [Gemini](https://deepmind.google/technologies/gemini)
+- [DeepSeek](https://github.com/deepseek-ai)
+- [Grok](https://x.ai)
 
 ---
 
