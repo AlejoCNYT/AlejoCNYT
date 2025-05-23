@@ -12,174 +12,79 @@ I value continuous learning and love staying up to date through MOOCs, seminars,
 
 ---
 
-## 🔭 Emerging Technologies & Areas of Interest
+## 🔭 Areas of Interest
 
-I'm currently open to internships, research collaborations, and open-source contributions in the following areas:
-
-<details>
-<summary>🤖 <strong>Artificial Intelligence & Machine Learning</strong></summary>
-
-* Machine Learning, Deep Learning, Reinforcement Learning
-* Natural Language Processing (NLP), Computer Vision, Generative AI
-* Explainable AI (XAI), TinyML, Federated Learning
-
-</details>
+I'm currently open to internships, research collaborations, and open-source contributions focused on:
 
 <details>
-<summary>📊 <strong>Data Science & Real-Time Analytics</strong></summary>
+<summary>🤖 <strong>Artificial Intelligence & Data Science</strong></summary>
 
-* Data Analytics, Big Data, Stream Processing
-* Geospatial Data, Time Series, Dashboards & Storytelling
+- Machine/Deep Learning, NLP, Generative AI, XAI  
+- Real-Time Analytics, Big Data, Dashboards  
+- Federated Learning, TinyML, Reinforcement Learning  
 
 </details>
 
 <details>
 <summary>🔐 <strong>Cybersecurity & Forensics</strong></summary>
 
-* Ethical Hacking, Digital Forensics, Threat Intelligence
-* Secure Multi-party Computation (SMPC), Post-Quantum Crypto
-* Privacy Engineering, Zero Trust Architectures
+- Ethical Hacking, Digital Forensics, Threat Intelligence  
+- Zero Trust, SMPC, Post-Quantum Cryptography  
+- Secure Boot, TPM, Enclaves, PUFs  
 
 </details>
 
 <details>
-<summary>🌐 <strong>Web & Cloud Technologies</strong></summary>
+<summary>🌐 <strong>Web, Cloud & APIs</strong></summary>
 
-* Fullstack Development (React, Spring Boot, Node.js)
-* WebAssembly, JAMstack, Serverless, Web3
-* GraphQL, STOMP/WebSocket, API-first & Edge Architectures
-
-</details>
-
-<details>
-<summary>🚁 <strong>IoT & Smart Systems</strong></summary>
-
-* Internet of Things (IoT), Embedded Devices, LPWAN
-* Smart Cities, Digital Twins, Wearables
+- Fullstack (React, Spring Boot, Node.js)  
+- JAMstack, Serverless, GraphQL, STOMP/WebSocket  
+- Web3, Edge Architectures, API-first Development  
 
 </details>
 
 <details>
-<summary>🧠 <strong>Human-Computer Interfaces & XR</strong></summary>
+<summary>🛰️ <strong>IoT, Embedded & Smart Systems</strong></summary>
 
-* Augmented & Virtual Reality (AR/VR), Spatial Computing
-* Brain-Computer Interfaces (BCI), Gesture/Eye Tracking
-* Natural User Interfaces (NUI), Mixed Reality Experiences
+- AIoT, Wearables, LPWAN (LoRa, NB-IoT), Smart Cities  
+- Embedded ML (MicroPython, EdgeTPU, Jetson), Power Electronics  
+- Reconfigurable Hardware, FPGAs, CPS, MEMS/NEMS  
 
 </details>
 
 <details>
 <summary>⚛️ <strong>Quantum & Future Computing</strong></summary>
 
-* Quantum Algorithms & Simulators
-* Quantum-safe Cryptography, Qiskit, Cirq
-* FinTech, DeFi, Algorithmic Trading, CBDCs
+- Quantum Algorithms, Qiskit, Cirq, IBM Q  
+- Hybrid Quantum-Classical Systems, PIM, Memristors  
+- Quantum-safe Crypto, QKD, Topological Materials  
 
 </details>
 
 <details>
-<summary>🌱 <strong>Ethics, Sustainability & Tech for Good</strong></summary>
+<summary>🧠 <strong>XR & Human-Machine Interfaces</strong></summary>
 
-* Responsible AI, Green Cloud Computing
-* Fairness & Bias Mitigation, Inclusive Design
-* Open Knowledge & Tech for Social Impact
-
-</details>
-
-<details>
-<summary>🧠 <strong>AI + Hardware Acceleration</strong></summary>
-
-- AIoT (Artificial Intelligence of Things)
-- Neuromorphic Computing
-- Edge AI Chips (Google Edge TPU, NVIDIA Jetson, Intel Movidius)
-- Processing-in-Memory (PIM)
-- Spiking Neural Networks in hardware
-- Custom ASICs for neural networks
-- TPUs and FPGA acceleration for ML
+- AR/VR, Spatial Computing, Eye/Gesture Tracking  
+- Brain-Computer Interfaces (BCI), Neuromorphic AI  
+- Mixed Reality, Natural User Interfaces (NUI)  
 
 </details>
 
 <details>
-<summary>🔌 <strong>Embedded Systems & Smart Electronics</strong></summary>
+<summary>🧩 <strong>Platforms, Open Hardware & Simulation</strong></summary>
 
-- RISC-V architecture (open hardware)
-- SoCs with AI/ML capabilities
-- Ultra low-power microcontrollers
-- Smart wearables and e-textiles
-- Bioelectronics (biosensors, brain interfaces)
-- Power electronics for IoT
-- MicroPython / CircuitPython on MCUs
+- Raspberry Pi, Jetson Orin, Arduino Portenta, ESP32-S3  
+- Simulink/HDL Coder, SystemC, Vivado, PYNQ  
+- FreeRTOS, Zephyr, RIOT OS, Yocto Project  
 
 </details>
 
 <details>
-<summary>🌐 <strong>Advanced Communication Technologies</strong></summary>
+<summary>⚗️ <strong>Ethics, Sustainability & Tech for Good</strong></summary>
 
-- 5G and 6G communication stacks
-- LPWAN protocols (LoRa, Sigfox, NB-IoT)
-- Visible Light Communication (Li-Fi)
-- Ultra-Wideband (UWB)
-- Quantum Key Distribution (QKD)
-- Software Defined Networking (SDN) for IoT
-- Mesh and self-healing networks
-
-</details>
-
-<details>
-<summary>⚙️ <strong>Reconfigurable & Digital Electronics</strong></summary>
-
-- Advanced FPGAs and CPLDs
-- Dynamic hardware reconfiguration
-- Cyber-Physical Systems (CPS)
-- High-Level Synthesis (HLS)
-- SystemC & Vivado co-simulation
-- RTL co-design with software interfaces
-
-</details>
-
-<details>
-<summary>🔒 <strong>Hardware Security & Trusted Computing</strong></summary>
-
-- Root of Trust (RoT), Secure Boot
-- Trusted Platform Modules (TPM)
-- Secure Enclaves (Intel SGX, ARM TrustZone)
-- Physical Unclonable Functions (PUFs)
-- Side-channel Attack Mitigations
-- Hardware Security Modules (HSM)
-
-</details>
-
-<details>
-<summary>🛰️ <strong>Futuristic Applications & Edge Systems</strong></summary>
-
-- Integrated Quantum + Control Electronics
-- Edge computing nodes for real-time analytics
-- MEMS/NEMS sensors in biomedical & robotics
-- Implantables & neurointerfaces
-- Piezoelectric self-powered devices
-
-</details>
-
-<details>
-<summary>⚗️ <strong>Nanotech & Advanced Materials</strong></summary>
-
-- Organic electronics and flexible circuits
-- Graphene-based semiconductors
-- Spintronics & topological materials
-- Memristors for memory & logic
-- Emerging 2D materials for computation
-
-</details>
-
-<details>
-<summary>🧩 <strong>Platforms & Open Source Hardware</strong></summary>
-
-- Raspberry Pi 5, NVIDIA Jetson Orin, Arduino Portenta
-- ESP32-S3 with AI accelerator
-- Zynq UltraScale+ MPSoC with PYNQ
-- HDL Coder, MATLAB Simulink for FPGAs
-- FreeRTOS, Zephyr, RIOT OS
-- Yocto Project (custom embedded Linux)
+- Responsible AI, Green Computing, Inclusive Design  
+- Open Knowledge, Accessible Tech, Education & Social Impact  
+- Cross-disciplinary Innovation (AI + Economics + Policy)  
 
 </details>
 
@@ -198,6 +103,9 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" height="40"/>
