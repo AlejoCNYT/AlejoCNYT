@@ -179,6 +179,21 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
+### 🖥️ Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" title="Kali Linux" height="30"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" title="Ubuntu" height="30"/>
+  <img src="https://img.shields.io/badge/Edubuntu-E95420?logo=ubuntu&logoColor=white" title="Edubuntu" height="30"/>
+  <img src="https://img.shields.io/badge/Scientific_Linux-2B3A42?logo=redhat&logoColor=white" title="Scientific Linux" height="30"/>
+  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white" title="FreeBSD" height="30"/>
+  <img src="https://img.shields.io/badge/OpenBSD-F7D708?logo=openbsd&logoColor=black" title="OpenBSD" height="30"/>
+  <img src="https://img.shields.io/badge/Windows_Server_(GUI)-0078D6?logo=windows&logoColor=white" title="Windows Server with GUI" height="30"/>
+  <img src="https://img.shields.io/badge/Windows_Server_(Core)-0078D6?logo=windows&logoColor=white" title="Windows Server Core (no GUI)" height="30"/>
+  <img src="https://img.shields.io/badge/Solaris-FFCC00?logo=sun&logoColor=black" title="Solaris OS" height="30"/>
+</p>
+
+---
+
 ### 🛠️ Tools & Platforms
 
 <p align="left">
