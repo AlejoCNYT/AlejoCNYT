@@ -201,18 +201,18 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ### 🧪 Specialized Domains & Concepts
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Sympy_logo.svg" title="SymPy" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Qiskit_logo.svg" title="Qiskit" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/IBM_Q_Logo_2021.svg" title="IBM Quantum Experience" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Scrum_Logo.svg" title="Scrum Master" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Kanban_board_example.svg" title="Kanban" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Lean_logo.svg" title="Lean" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Business_Model_Canvas_logo_2019.svg" title="Business Model Canvas" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="SymPy (Python)" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Qiskit_logo.svg" title="Qiskit" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/IBM_Q_Experience_Logo.png" title="IBM Quantum" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/scrum.svg" title="Scrum Master" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/kanban.svg" title="Kanban" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/lean.svg" title="Lean" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/business-model-canvas.svg" title="Business Model Canvas" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" title="ChatGPT" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/133403540?s=200&v=4" title="Claude AI" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Google_Gemini_logo.svg" title="Gemini AI" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/DeepSeek_logo.svg" title="DeepSeek" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Grok_logo_xai.svg" title="Grok (xAI)" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/gemini.svg" title="Gemini AI" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/deepseek.svg" title="DeepSeek AI" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/daavofficial/resources@main/icons/grok.svg" title="Grok (xAI)" height="40"/>
 </p>
 
 ---
