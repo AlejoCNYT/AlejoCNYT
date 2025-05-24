@@ -169,12 +169,8 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" height="40"/>
   <img src="https://vitejs.dev/logo.svg" title="Vite" height="40"/>
-  <a href="https://laravel.com/">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" title="Laravel" height="30"/>
-</ a>
-<a href="https://www.w3.org/XML/">
-  <img src="https://img.shields.io/badge/XML-000000?logo=w3c&logoColor=white" title="XML" height="30"/>
-</a>
+  <a href="https://laravel.com/"> [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/) 
+ XML[![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white)](https://www.w3.org/XML/) 
 </p>
 
 ---
@@ -185,6 +181,7 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" title="Ubuntu" height="30"/>
   <img src="https://img.shields.io/badge/Edubuntu-E95420?logo=ubuntu&logoColor=white" title="Edubuntu" height="30"/>
   <img src="https://img.shields.io/badge/Scientific_Linux-2B3A42?logo=redhat&logoColor=white" title="Scientific Linux" height="30"/>
+  [![Slackware](https://img.shields.io/badge/Slackware-000000?logo=slackware&logoColor=white)](https://www.slackware.com/) 
   <img src="https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white" title="FreeBSD" height="30"/>
   <img src="https://img.shields.io/badge/OpenBSD-F7D708?logo=openbsd&logoColor=black" title="OpenBSD" height="30"/>
   <img src="https://img.shields.io/badge/Windows_Server_(GUI)-0078D6?logo=windows&logoColor=white" title="Windows Server with GUI" height="30"/>
@@ -217,7 +214,7 @@ I'm currently open to internships, research collaborations, and open-source cont
   <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah_UML-1C1C1C?logo=uml&logoColor=white" height="30"/></a>
   <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Cisco%20PacketTracer-1BA0D7?logo=cisco&logoColor=white" height="30"/></a>
   <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" height="30"/></a>
-[![Slackware](https://img.shields.io/badge/Slackware-000000?logo=slackware&logoColor=white)](https://www.slackware.com/)
+
 <a href="https://www.cisco.com/">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" title="Cisco" height="30"/>
 </a>
