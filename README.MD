@@ -140,8 +140,6 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 ## 🧐 Technical Skills
 
----
-
 ### 💻 Programming Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="40"/>
