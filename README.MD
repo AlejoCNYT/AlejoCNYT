@@ -217,6 +217,7 @@ I'm currently open to internships, research collaborations, and open-source cont
   <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah_UML-1C1C1C?logo=uml&logoColor=white" height="30"/></a>
   <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Cisco%20PacketTracer-1BA0D7?logo=cisco&logoColor=white" height="30"/></a>
   <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" height="30"/></a>
+[![Slackware](https://img.shields.io/badge/Slackware-000000?logo=slackware&logoColor=white)](https://www.slackware.com/)
 <a href="https://www.cisco.com/">
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" title="Cisco" height="30"/>
 </a>
