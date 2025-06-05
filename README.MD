@@ -213,8 +213,7 @@ I'm currently open to internships, research collaborations, and open-source cont
   <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" height="30"/></a>
   <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" title="Cisco" height="30"/></a>
   <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?logo=cisco&logoColor=white" title="Cisco Packet Tracer" height="30"/></a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" height="20"/></a>
-
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" title="Power BI" height="30"/></a>
 </p>
 
 ---
