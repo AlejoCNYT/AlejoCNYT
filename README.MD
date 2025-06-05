@@ -211,12 +211,10 @@ I'm currently open to internships, research collaborations, and open-source cont
   <a href="https://www.microsoft.com/microsoft-365"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white" height="30"/></a>
   <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah_UML-1C1C1C?logo=uml&logoColor=white" height="30"/></a>
   <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" height="30"/></a>
-<a href="https://www.cisco.com/">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" title="Cisco" height="30"/>
-</a>
-<a href="https://www.netacad.com/courses/packet-tracer">
-  <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?logo=cisco&logoColor=white" title="Cisco Packet Tracer" height="30"/>
-</a>
+  <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" title="Cisco" height="30"/></a>
+  <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?logo=cisco&logoColor=white" title="Cisco Packet Tracer" height="30"/></a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" height="20"/></a>
+
 </p>
 
 ---
