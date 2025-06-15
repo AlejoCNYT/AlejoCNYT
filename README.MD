@@ -168,14 +168,14 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" height="40"/>
   <img src="https://vitejs.dev/logo.svg" title="Vite" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" height="40"/>
-  <img src="https://upload.wikimedia.org/w3c/svg/logos/w3c.svg" title="XML" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/XML_Logo.svg" title="XML" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="PySpark" height="40"/>
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" title="FastAPI" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Amazon_Redshift_Logo.svg" title="Amazon Redshift" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amazon_Redshift_Logo.svg/320px-Amazon_Redshift_Logo.svg.png" title="Amazon Redshift" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" title="Scala" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_BigQuery_Logo.svg" title="Google BigQuery" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Google_BigQuery_Logo.svg/512px-Google_BigQuery_Logo.svg.png" title="Google BigQuery" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" title="Apache Kafka" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/KNIME_logo.svg" title="KNIME" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/KNIME_logo.svg/256px-KNIME_logo.svg.png" title="KNIME" height="40"/>
 </p>
 
 ---
