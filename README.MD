@@ -162,19 +162,19 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" height="40"/>
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png" title="TensorFlow" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="TensorFlow" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" height="40"/>
   <img src="https://vitejs.dev/logo.svg" title="Vite" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" height="40"/>
-  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.svg" title="XML/W3C" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="PySpark (Apache Spark)" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Redshift" height="40"/>
+  <img src="https://upload.wikimedia.org/w3c/svg/logos/w3c.svg" title="XML" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="PySpark" height="40"/>
+  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" title="FastAPI" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Amazon_Redshift_Logo.svg" title="Amazon Redshift" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" title="Scala" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_BigQuery_Logo.svg" title="Google BigQuery" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" title="Apache Kafka" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/KNIME_logo.svg" title="KNIME" height="40"/>
 </p>
 
