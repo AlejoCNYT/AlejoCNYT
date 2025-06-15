@@ -168,7 +168,7 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" height="40"/>
   <img src="https://vitejs.dev/logo.svg" title="Vite" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/XML_Logo.svg" title="XML" height="40"/>
+  <img src="https://en.wikipedia.org/wiki/XML#/media/File:Extensible_Markup_Language_(XML)_logo.svg" title="XML" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="PySpark" height="40"/>
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" title="FastAPI" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amazon_Redshift_Logo.svg/320px-Amazon_Redshift_Logo.svg.png" title="Amazon Redshift" height="40"/>
