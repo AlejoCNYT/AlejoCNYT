@@ -167,15 +167,15 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" height="40"/>
   <img src="https://vitejs.dev/logo.svg" title="Vite" height="40"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" title="Laravel" height="30"/>
-  <img src="https://img.shields.io/badge/XML-FF6600?logo=w3c&logoColor=white" title="XML" height="30"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white" title="PySpark" height="30"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" title="FastAPI" height="30"/>
-  <img src="https://img.shields.io/badge/Redshift-4053D6?logo=amazon-redshift&logoColor=white" title="Amazon Redshift" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" height="40"/>
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.svg" title="XML/W3C" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="PySpark (Apache Spark)" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Redshift" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" title="Scala" height="40"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white" title="Google BigQuery" height="30"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white" title="Apache Kafka" height="30"/>
-  <img src="https://img.shields.io/badge/KNIME-FF9900?logo=knime&logoColor=black" title="KNIME Analytics Platform" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_BigQuery_Logo.svg" title="Google BigQuery" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/KNIME_logo.svg" title="KNIME" height="40"/>
 </p>
 
 ---
