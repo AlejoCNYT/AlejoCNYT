@@ -184,54 +184,45 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ### 🖥️ Operating Systems
 <p align="left">
-  <!-- Kali Linux -->
-  <img src="https://cdn.simpleicons.org/KaliLinux" title="Kali Linux" height="40"/>
-  <!-- Ubuntu -->
-  <img src="https://cdn.simpleicons.org/Ubuntu" title="Ubuntu" height="40"/>
-  <!-- Edubuntu (usamos Ubuntu como proxy) -->
-  <img src="https://img.shields.io/badge/Edubuntu-2C001E?style=flat&logo=ubuntu&logoColor=white" title="Edubuntu" height="40"/>
-  <!-- Scientific Linux -->
-  <img src="https://img.shields.io/badge/Scientific_Linux-2B3A42?style=flat&logo=scientificlinux&logoColor=white" title="Scientific Linux" height="40"/>
-  <!-- Slackware -->
-  <img src="https://cdn.simpleicons.org/Slackware" title="Slackware Linux" height="40"/>
-  <!-- FreeBSD -->
-  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white" title="FreeBSD" height="40"/>
-  <!-- OpenBSD -->
-  <img src="https://img.shields.io/badge/OpenBSD-F7D708?style=flat&logo=openbsd&logoColor=black" t
-  <!-- Windows -->
-  <!-- Windows Server (GUI) -->
-  <img src="https://img.shields.io/badge/Windows_Server_GUI-0078D6?style=flat&logo=windows&logoColor=white" title="Windows Server GUI" height="40"/>
-  <!-- Windows Server (Core) -->
-  <img src="https://img.shields.io/badge/Windows_Server_Core-0078D6?style=flat&logo=windows&logoColor=white" title="Windows Server Core" height="40"/>
-  <!-- Solaris -->
-  <img src="https://img.shields.io/badge/Solaris-FFCC00?style=flat&logo=solaris&logoColor=black" title="Solaris" height="40"/>
-
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" title="Kali Linux" height="30"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" title="Ubuntu" height="30"/>
+  <img src="https://img.shields.io/badge/Edubuntu-E95420?logo=ubuntu&logoColor=white" title="Edubuntu" height="30"/>
+  <img src="https://img.shields.io/badge/Scientific_Linux-2B3A42?logo=redhat&logoColor=white" title="Scientific Linux" height="30"/>
+  <img src="https://img.shields.io/badge/Slackware-000000?logo=slackware&logoColor=white" title="Slackware Linux" height="30"/>
+  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white" title="FreeBSD" height="30"/>
+  <img src="https://img.shields.io/badge/OpenBSD-F7D708?logo=openbsd&logoColor=black" title="OpenBSD" height="30"/>
+  <img src="https://img.shields.io/badge/Windows_Server_(GUI)-0078D6?logo=windows&logoColor=white" title="Windows Server with GUI" height="30"/>
+  <img src="https://img.shields.io/badge/Windows_Server_(Core)-0078D6?logo=windows&logoColor=white" title="Windows Server Core (no GUI)" height="30"/>
+  <img src="https://img.shields.io/badge/Solaris-FFCC00?logo=sun&logoColor=black" title="Solaris OS" height="30"/>
 </p>
 
 ---
 
-### 🖥️ Operating Systems
+### 🛠️ Tools & Platforms
+
 <p align="left">
-  <!-- Kali Linux -->
-  <img src="https://cdn.simpleicons.org/KaliLinux" title="Kali Linux" height="40"/>
-  <!-- Ubuntu -->
-  <img src="https://cdn.simpleicons.org/Ubuntu" title="Ubuntu" height="40"/>
-  <!-- Edubuntu (logo oficial) -->
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/edubuntu.svg" title="Edubuntu" height="40"/>
-  <!-- Scientific Linux -->
-  <img src="https://cdn.simpleicons.org/ScientificLinux" title="Scientific Linux" height="40"/>
-  <!-- Slackware -->
-  <img src="https://cdn.simpleicons.org/Slackware" title="Slackware Linux" height="40"/>
-  <!-- FreeBSD -->
-  <img src="https://cdn.simpleicons.org/FreeBSD" title="FreeBSD" height="40"/>
-  <!-- OpenBSD -->
-  <img src="https://cdn.simpleicons.org/OpenBSD" title="OpenBSD" height="40"/>
-  <!-- Windows Server GUI -->
-  <img src="https://cdn.simpleicons.org/Windows" title="Windows Server GUI" height="40"/>
-  <!-- Windows Server Core -->
-  <img src="https://cdn.simpleicons.org/Windows" title="Windows Server Core" height="40"/>
-  <!-- Solaris -->
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/solaris.svg" title="Solaris" height="40"/>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" height="30"/></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" height="30"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" height="30"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" height="30"/></a>
+  <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="30"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="30"/></a>
+  <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white" height="30"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white" height="30"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="30"/></a>
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="30"/></a>
+  <a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" height="30"/></a>
+  <a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" height="30"/></a>
+  <a href="https://www.android.com/"><img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" height="30"/></a>
+  <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" height="30"/></a>
+  <a href="https://www.overleaf.com/"><img src="https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=white" height="30"/></a>
+  <a href="https://www.oracle.com/database/sqldeveloper/"><img src="https://img.shields.io/badge/Oracle-FF0000?logo=oracle&logoColor=white" height="30"/></a>
+  <a href="https://www.microsoft.com/microsoft-365"><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white" height="30"/></a>
+  <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah_UML-1C1C1C?logo=uml&logoColor=white" height="30"/></a>
+  <a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" height="30"/></a>
+  <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" title="Cisco" height="30"/></a>
+  <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?logo=cisco&logoColor=white" title="Cisco Packet Tracer" height="30"/></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" title="Power BI" height="30"/></a>
 </p>
 
 ---
