@@ -169,27 +169,14 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://vitejs.dev/logo.svg" title="Vite" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="PySpark" height="40"/>
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" title="FastAPI" height="40"/>
-  <!-- PySpark (Apache Spark) -->
   <img src="https://cdn.simpleicons.org/ApacheSpark" title="PySpark" height="40"/>
-  <!-- FastAPI -->
   <img src="https://cdn.simpleicons.org/FastAPI" title="FastAPI" height="40"/>
-
-<!-- Amazon Redshift via Shields.io -->
-<img
-  src="https://img.shields.io/badge/Amazon%20Redshift-white?style=flat&logo=amazon-redshift&logoColor=purple"
-  title="Amazon Redshift"
-  height="40"/>
-
-
-
-  <!-- Scala -->
   <img src="https://cdn.simpleicons.org/Scala" title="Scala" height="40"/>
-  <!-- Google BigQuery -->
   <img src="https://cdn.simpleicons.org/GoogleBigQuery" title="Google BigQuery" height="40"/>
-  <!-- Apache Kafka -->
   <img src="https://cdn.simpleicons.org/ApacheKafka" title="Apache Kafka" height="40"/>
-  <!-- KNIME -->
   <img src="https://cdn.simpleicons.org/Knime" title="KNIME" height="40"/>
+  <img src="https://img.shields.io/badge/Amazon%20Redshift-white?style=flat&logo=amazon-redshift&logoColor=purple"
+    title="Amazon Redshift" height="40"/>
 
 </p>
 
@@ -197,16 +184,26 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ### 🖥️ Operating Systems
 <p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" title="Kali Linux" height="30"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" title="Ubuntu" height="30"/>
-  <img src="https://img.shields.io/badge/Edubuntu-E95420?logo=ubuntu&logoColor=white" title="Edubuntu" height="30"/>
-  <img src="https://img.shields.io/badge/Scientific_Linux-2B3A42?logo=redhat&logoColor=white" title="Scientific Linux" height="30"/>
-  <img src="https://img.shields.io/badge/Slackware-000000?logo=slackware&logoColor=white" title="Slackware Linux" height="30"/>
-  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=white" title="FreeBSD" height="30"/>
-  <img src="https://img.shields.io/badge/OpenBSD-F7D708?logo=openbsd&logoColor=black" title="OpenBSD" height="30"/>
-  <img src="https://img.shields.io/badge/Windows_Server_(GUI)-0078D6?logo=windows&logoColor=white" title="Windows Server with GUI" height="30"/>
-  <img src="https://img.shields.io/badge/Windows_Server_(Core)-0078D6?logo=windows&logoColor=white" title="Windows Server Core (no GUI)" height="30"/>
-  <img src="https://img.shields.io/badge/Solaris-FFCC00?logo=sun&logoColor=black" title="Solaris OS" height="30"/>
+  <!-- Kali Linux -->
+  <img src="https://cdn.simpleicons.org/KaliLinux" title="Kali Linux" height="40"/>
+  <!-- Ubuntu -->
+  <img src="https://cdn.simpleicons.org/Ubuntu" title="Ubuntu" height="40"/>
+  <!-- Edubuntu (usamos Ubuntu como proxy) -->
+  <img src="https://cdn.simpleicons.org/Ubuntu" title="Edubuntu" height="40"/>
+  <!-- Scientific Linux -->
+  <img src="https://cdn.simpleicons.org/ScientificLinux" title="Scientific Linux" height="40"/>
+  <!-- Slackware -->
+  <img src="https://cdn.simpleicons.org/Slackware" title="Slackware Linux" height="40"/>
+  <!-- FreeBSD -->
+  <img src="https://cdn.simpleicons.org/FreeBSD" title="FreeBSD" height="40"/>
+  <!-- OpenBSD -->
+  <img src="https://cdn.simpleicons.org/OpenBSD" title="OpenBSD" height="40"/>
+  <!-- Windows -->
+  <img src="https://cdn.simpleicons.org/Windows" title="Windows" height="40"/>
+  <!-- macOS -->
+  <img src="https://cdn.simpleicons.org/Apple" title="macOS" height="40"/>
+  <!-- Solaris -->
+  <img src="https://cdn.simpleicons.org/Solaris" title="Solaris" height="40"/>
 </p>
 
 ---
