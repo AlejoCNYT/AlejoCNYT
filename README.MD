@@ -174,10 +174,17 @@ I'm currently open to internships, research collaborations, and open-source cont
   <!-- FastAPI -->
   <img src="https://cdn.simpleicons.org/FastAPI" title="FastAPI" height="40"/>
   <!-- Amazon Redshift via Shields.io -->
-  <img
-  src="https://img.shields.io/badge/Amazon%20Redshift-white?style=flat&logo=amazon-redshift&logoColor=purple"
+  <!-- Amazon Redshift vía Simple Icons -->
+<img
+  src="https://cdn.simpleicons.org/AmazonRedshift"
   title="Amazon Redshift"
   height="40"/>
+<!-- Amazon Redshift vía raw.githubusercontent.com -->
+<img
+  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/amazon-redshift.svg"
+  title="Amazon Redshift"
+  height="40"/>
+
 
   <!-- Scala -->
   <img src="https://cdn.simpleicons.org/Scala" title="Scala" height="40"/>
