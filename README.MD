@@ -208,7 +208,7 @@ I'm currently open to internships, research collaborations, and open-source cont
   <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="30"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="30"/></a>
   <a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white" height="30"/></a>
-  <a href="https://www.postman.com/"><img src="https://cdn.simpleicons.org/Postman" title="Postman" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noopener"><img src="https://cdn.simpleicons.org/Postman" title="Postman" height="40"/>Postman</a>
   <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoft-azure&logoColor=white" height="30"/></a>
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" height="30"/></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" height="30"/></a>
