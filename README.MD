@@ -176,27 +176,20 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Google_BigQuery_Logo.svg/512px-Google_BigQuery_Logo.svg.png" title="Google BigQuery" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" title="Apache Kafka" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/KNIME_logo.svg/256px-KNIME_logo.svg.png" title="KNIME" height="40"/>
-  <!-- PySpark -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg"
-       title="PySpark" height="40"/>
+  <!-- PySpark (Apache Spark) -->
+  <img src="https://cdn.simpleicons.org/ApacheSpark" title="PySpark" height="40"/>
   <!-- FastAPI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
-       title="FastAPI" height="40"/>
+  <img src="https://cdn.simpleicons.org/FastAPI" title="FastAPI" height="40"/>
   <!-- Amazon Redshift -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amazon_Redshift_Logo.svg/320px-Amazon_Redshift_Logo.svg.png"
-       title="Amazon Redshift" height="40"/>
+  <img src="https://cdn.simpleicons.org/AmazonRedshift" title="Amazon Redshift" height="40"/>
   <!-- Scala -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg"
-       title="Scala" height="40"/>
+  <img src="https://cdn.simpleicons.org/Scala" title="Scala" height="40"/>
   <!-- Google BigQuery -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Google_BigQuery_Logo.svg/512px-Google_BigQuery_Logo.svg.png"
-       title="Google BigQuery" height="40"/>
+  <img src="https://cdn.simpleicons.org/GoogleBigQuery" title="Google BigQuery" height="40"/>
   <!-- Apache Kafka -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kafka/kafka-original.svg"
-       title="Apache Kafka" height="40"/>
+  <img src="https://cdn.simpleicons.org/ApacheKafka" title="Apache Kafka" height="40"/>
   <!-- KNIME -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knime/knime-original.svg"
-       title="KNIME" height="40"/>
+  <img src="https://cdn.simpleicons.org/Knime" title="KNIME" height="40"/>
 
 </p>
 
