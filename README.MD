@@ -189,21 +189,23 @@ I'm currently open to internships, research collaborations, and open-source cont
   <!-- Ubuntu -->
   <img src="https://cdn.simpleicons.org/Ubuntu" title="Ubuntu" height="40"/>
   <!-- Edubuntu (usamos Ubuntu como proxy) -->
-  <img src="https://cdn.simpleicons.org/Ubuntu" title="Edubuntu" height="40"/>
+  <img src="https://img.shields.io/badge/Edubuntu-2C001E?style=flat&logo=ubuntu&logoColor=white" title="Edubuntu" height="40"/>
   <!-- Scientific Linux -->
-  <img src="https://cdn.simpleicons.org/ScientificLinux" title="Scientific Linux" height="40"/>
+  <img src="https://img.shields.io/badge/Scientific_Linux-2B3A42?style=flat&logo=scientificlinux&logoColor=white" title="Scientific Linux" height="40"/>
   <!-- Slackware -->
   <img src="https://cdn.simpleicons.org/Slackware" title="Slackware Linux" height="40"/>
   <!-- FreeBSD -->
-  <img src="https://cdn.simpleicons.org/FreeBSD" title="FreeBSD" height="40"/>
+  <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=flat&logo=freebsd&logoColor=white" title="FreeBSD" height="40"/>
   <!-- OpenBSD -->
-  <img src="https://cdn.simpleicons.org/OpenBSD" title="OpenBSD" height="40"/>
+  <img src="https://img.shields.io/badge/OpenBSD-F7D708?style=flat&logo=openbsd&logoColor=black" t
   <!-- Windows -->
-  <img src="https://cdn.simpleicons.org/Windows" title="Windows" height="40"/>
-  <!-- macOS -->
-  <img src="https://cdn.simpleicons.org/Apple" title="macOS" height="40"/>
+  <!-- Windows Server (GUI) -->
+  <img src="https://img.shields.io/badge/Windows_Server_GUI-0078D6?style=flat&logo=windows&logoColor=white" title="Windows Server GUI" height="40"/>
+  <!-- Windows Server (Core) -->
+  <img src="https://img.shields.io/badge/Windows_Server_Core-0078D6?style=flat&logo=windows&logoColor=white" title="Windows Server Core" height="40"/>
   <!-- Solaris -->
-  <img src="https://cdn.simpleicons.org/Solaris" title="Solaris" height="40"/>
+  <img src="https://img.shields.io/badge/Solaris-FFCC00?style=flat&logo=solaris&logoColor=black" title="Solaris" height="40"/>
+
 </p>
 
 ---
