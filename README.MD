@@ -173,17 +173,13 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://cdn.simpleicons.org/ApacheSpark" title="PySpark" height="40"/>
   <!-- FastAPI -->
   <img src="https://cdn.simpleicons.org/FastAPI" title="FastAPI" height="40"/>
-  <!-- Amazon Redshift via Shields.io -->
-  <!-- Amazon Redshift vía Simple Icons -->
+
+<!-- Amazon Redshift via Shields.io -->
 <img
-  src="https://cdn.simpleicons.org/AmazonRedshift"
+  src="https://img.shields.io/badge/Amazon%20Redshift-white?style=flat&logo=amazon-redshift&logoColor=purple"
   title="Amazon Redshift"
   height="40"/>
-<!-- Amazon Redshift vía raw.githubusercontent.com -->
-<img
-  src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/amazon-redshift.svg"
-  title="Amazon Redshift"
-  height="40"/>
+
 
 
   <!-- Scala -->
