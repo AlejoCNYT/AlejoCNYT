@@ -229,6 +229,10 @@ I'm currently open to internships, research collaborations, and open-source cont
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white" title="Jupyter Notebook" height="30"/></a>
   <a href="https://posit.co/download/rstudio-desktop/"><img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" title="RStudio" height="30"/></a>
   <a href="https://cloud.google.com/"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white" title="Google Cloud" height="30"/></a>
+  <a href="https://www.bluej.org/"><img src="https://img.shields.io/badge/BlueJ-002147?logo=java&logoColor=white" title="BlueJ" height="30"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white" title="IntelliJ IDEA" height="30"/></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" title="PyCharm" height="30"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" title="Visual Studio Code" height="30"/></a>
 
 </p>
 
