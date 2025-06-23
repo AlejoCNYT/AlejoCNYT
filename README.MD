@@ -153,8 +153,6 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" height="40"/>
 
 </p>
 
@@ -228,6 +226,10 @@ I'm currently open to internships, research collaborations, and open-source cont
   <a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/Cisco-1BA0D7?logo=cisco&logoColor=white" title="Cisco" height="30"/></a>
   <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?logo=cisco&logoColor=white" title="Cisco Packet Tracer" height="30"/></a>
   <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" title="Power BI" height="30"/></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white" title="Jupyter Notebook" height="30"/></a>
+  <a href="https://posit.co/download/rstudio-desktop/"><img src="https://img.shields.io/badge/RStudio-75AADB?logo=rstudio&logoColor=white" title="RStudio" height="30"/></a>
+  <a href="https://cloud.google.com/"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white" title="Google Cloud" height="30"/></a>
+
 </p>
 
 ---
