@@ -177,8 +177,9 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://cdn.simpleicons.org/GoogleBigQuery" title="Google BigQuery" height="40"/>
   <img src="https://cdn.simpleicons.org/ApacheKafka" title="Apache Kafka" height="40"/>
   <img src="https://cdn.simpleicons.org/Knime" title="KNIME" height="40"/>
-  <img src="https://img.shields.io/badge/Amazon%20Redshift-white?style=flat&logo=amazon-redshift&logoColor=purple"
-    title="Amazon Redshift" height="40"/>
+  <img src="https://img.shields.io/badge/Amazon%20Redshift-white?style=flat&logo=amazon-redshift&logoColor=purple" title="Amazon Redshift" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" height="40"/>
 
 </p>
 
