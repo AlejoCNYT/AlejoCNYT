@@ -151,9 +151,11 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" height="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX">
+    <img src="https://img.shields.io/badge/AJAX-0A0A0A?logo=javascript&logoColor=white" title="AJAX" height="30"/>
+  </a>
 </p>
 
 ---
