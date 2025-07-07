@@ -186,6 +186,9 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://img.shields.io/badge/XML-FF6600?logo=w3c&logoColor=white" title="XML" height="30"/>
 </p>
 
+
+---
+
 ### 🖥️ Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" title="Kali Linux" height="30"/>
