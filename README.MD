@@ -141,18 +141,34 @@ I'm currently open to internships, research collaborations, and open-source cont
 ## 🧐 Technical Skills
 
 ### 💻 Programming Languages
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" height="20"/> <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX"><img src="https://img.shields.io/badge/AJAX-0A0A0A?logo=javascript&logoColor=white" title="AJAX" height="20"/></a></p>
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" height="30"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX">
+    <img src="https://img.shields.io/badge/AJAX-0A0A0A?logo=javascript&logoColor=white" title="AJAX" height="30"/>
+  </a>
+</p>
 
 ---
 
 ### 📚 Frameworks & Libraries
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="TensorFlow" height="30"/>
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" title="TensorFlow" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" height="30"/>
@@ -166,9 +182,9 @@ I'm currently open to internships, research collaborations, and open-source cont
   <img src="https://img.shields.io/badge/Amazon%20Redshift-white?style=flat&logo=amazon-redshift&logoColor=purple" title="Amazon Redshift" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jQuery" height="30"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" title="Laravel" height="30"/>
+  <img src="https://img.shields.io/badge/XML-FF6600?logo=w3c&logoColor=white" title="XML" height="30"/>
 </p>
-
----
 
 ### 🖥️ Operating Systems
 <p align="left">
@@ -220,9 +236,10 @@ I'm currently open to internships, research collaborations, and open-source cont
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" title="Visual Studio Code" height="30"/></a>
 </p>
 
----
+--- 
 
 ### 🧪 Specialized Domains & Concepts
+
 <p align="left">
   <a href="https://www.sympy.org"><img src="https://img.shields.io/badge/SymPy-3776AB?logo=python&logoColor=white" height="30"/></a>
   <a href="https://qiskit.org"><img src="https://img.shields.io/badge/Qiskit-000000?logo=ibm&logoColor=white" height="30"/></a>
@@ -241,31 +258,6 @@ I'm currently open to internships, research collaborations, and open-source cont
   <a href="https://www.gnu.org/software/octave/"><img src="https://img.shields.io/badge/GNU_Octave-0790C0?logo=gnu&logoColor=white" title="GNU Octave" height="30"/></a>
 </p>
 
----
-
-### 🧪 Specialized Domains & Concepts
-<p align="left">
-  <a href="https://www.sympy.org"><img src="https://img.shields.io/badge/SymPy-3776AB?logo=python&logoColor=white" height="30"/></a>
-  <a href="https://qiskit.org"><img src="https://img.shields.io/badge/Qiskit-000000?logo=ibm&logoColor=white" height="30"/></a>
-  <a href="https://quantum-computing.ibm.com"><img src="https://img.shields.io/badge/IBM_Quantum-054ADA?logo=ibm&logoColor=white" height="30"/></a>
-  <a href="https://www.scrum.org"><img src="https://img.shields.io/badge/Scrum-6DB33F?logo=jira&logoColor=white" height="30"/></a>
-  <a href="https://kanbanize.com/kanban-resources/getting-started/what-is-kanban"><img src="https://img.shields.io/badge/Kanban-0052CC?logo=trello&logoColor=white" height="30"/></a>
-  <a href="https://lean.org"><img src="https://img.shields.io/badge/Lean-003366?logo=leanpub&logoColor=white" height="30"/></a>
-  <a href="https://www.strategyzer.com/canvas/business-model-canvas"><img src="https://img.shields.io/badge/Business_Model_Canvas-1C1C1C?logo=visualstudio&logoColor=white" height="30"/></a>
-  <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white" height="30"/></a>
-  <a href="https://www.anthropic.com/index/claude"><img src="https://img.shields.io/badge/Claude_AI-4B0082?logo=anthropic&logoColor=white" height="30"/></a>
-  <a href="https://deepmind.google/technologies/gemini"><img src="https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white" height="30"/></a>
-  <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DeepSeek_AI-1A1A1A?logo=github&logoColor=white" height="30"/></a>
-  <a href="https://x.ai"><img src="https://img.shields.io/badge/Grok_xAI-000000?logo=x&logoColor=white" height="30"/></a>
-<a href="https://www.wolfram.com/mathematica/"><img src="https://img.shields.io/badge/Mathematica-DD1100?logo=wolfram&logoColor=white" title="Wolfram Mathematica" height="30"/>
-</a>
-<a href="https://www.mathworks.com/products/matlab.html">
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" title="MATLAB" height="30"/>
-</a>
-<a href="https://www.gnu.org/software/octave/">
-  <img src="https://img.shields.io/badge/GNU_Octave-0790C0?logo=gnu&logoColor=white" title="GNU Octave" height="30"/>
-</a>
-</p>
 
 ---
 
