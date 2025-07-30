@@ -12,6 +12,30 @@ I value continuous learning and love staying up to date through MOOCs, seminars,
 
 ---
 
+---
+
+## 📊 GitHub Stats
+![Daniel’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielalejandroacerovarela&show_icons=true&theme=default)
+
+---
+
+## 📝 Recent Blog Posts
+![Daniel’s Recent Blog Posts](https://raw.githubusercontent.com/danielalejandroacerovarela/your-repo/main/assets/recent_blog_posts.png)
+
+---
+
+## 🔍 Code Review Insights
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielalejandroacerovarela&theme=default" alt="Profile Details" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=danielalejandroacerovarela&layout=compact)
+
+---
+
 ## 🔭 Areas of Interest
 
 I'm currently open to internships, research collaborations, and open-source contributions focused on:
