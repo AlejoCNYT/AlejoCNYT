@@ -234,6 +234,57 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 --- 
 
+<table>
+  <tr>
+    <th align="left" colspan="20">💻 Programming Languages</th>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="30"/>
+      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" height="30"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="30"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" height="30"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="30"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="30"/>
+      <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" height="30"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash" height="30"/>
+      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="30"/>
+      <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="30"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL" height="30"/>
+      <img src="https://img.shields.io/badge/AJAX-0A0A0A?logo=javascript&logoColor=white" alt="AJAX" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <th align="left" colspan="20">📚 Frameworks & Libraries</th>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="30"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" height="30"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="30"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="30"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" height="30"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" height="30"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="30"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" height="30"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" alt="Vite" height="30"/>
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apache-spark&logoColor=white" alt="Apache Spark" height="30"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" height="30"/>
+      <img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white" alt="Scala" height="30"/>
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white" alt="BigQuery" height="30"/>
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white" alt="Apache Kafka" height="30"/>
+      <img src="https://img.shields.io/badge/KNIME-D9E30B?logo=knime&logoColor=black" alt="KNIME" height="30"/>
+      <img src="https://img.shields.io/badge/Amazon_Redshift-FF0000?logo=amazon-redshift&logoColor=white" alt="Redshift" height="30"/>
+      <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin" height="30"/>
+      <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" height="30"/>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" height="30"/>
+      <img src="https://img.shields.io/badge/XML-FF6600?logo=w3c&logoColor=white" alt="XML" height="30"/>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🧪 Specialized Domains & Concepts
 
 <p align="left">
@@ -292,3 +343,4 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
