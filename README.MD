@@ -139,59 +139,9 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
-### 💻 Programming Languages
 
-<table align="center">
-  <tbody>
-    <tr>
-      <th align="center" colspan="6">💻 Programming Languages</th>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" width="65" height="65"/></a><br>Python
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" width="65" height="65"/></a><br>Java
-      </td>
-      <td align="center" width="96">
-        <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="65" height="65"/></a><br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" width="65" height="65"/></a><br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <a href="https://developer.mozilla.org/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" width="65" height="65"/></a><br>HTML5
-      </td>
-      <td align="center" width="96">
-        <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" width="65" height="65"/></a><br>CSS3
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" width="65" height="65"/></a><br>R
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash" width="65" height="65"/></a><br>Bash
-      </td>
-      <td align="center" width="96">
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" width="65" height="65"/></a><br>C
-      </td>
-      <td align="center" width="96">
-        <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" width="65" height="65"/></a><br>C++
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL" width="65" height="65"/></a><br>SQL
-      </td>
-      <td align="center" width="96">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX"><img src="https://img.shields.io/badge/AJAX-0A0A0A?logo=javascript&logoColor=white" alt="AJAX" width="65" height="65"/></a><br>AJAX
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ---
-
-### 📚 Frameworks & Libraries
 
 <table align="center">
   <tbody>
@@ -399,6 +349,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
