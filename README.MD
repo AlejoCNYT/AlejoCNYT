@@ -10,15 +10,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejoCNYT&show_icons=true&theme=default)
 
 <!-- Gráfica de actividad -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejoCNYT&theme=default&area=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejoCNYT&theme=dracula&hide_border=true&area=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejoCNYT&theme=gruvbox&line=000000&point=FFFF00&background=FDF6E3&area=true&area_color=EEE8D5)
-
-![Mi Gráfica de Actividad](https://github-readme-activity-graph.vercel.app/graph?username=AlejoCNYT&theme=cobalt&custom_title=Actividad%20GitHub&width=700&height=150&locale=es)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejoCNYT&theme=synthwave&background=FF00FF&area=false)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejoCNYT&theme=cobalt&custom_title=Actividad%20GitHub&width=700&height=150&locale=es)
 
 ---
 
@@ -624,6 +616,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
