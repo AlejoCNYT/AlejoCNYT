@@ -4,6 +4,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Daniel’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejoCNYT&show_icons=true&include_all_commits=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoCNYT&layout=compact&theme=default)
+
+---
+
 ## 🚀 About Me
 
 Hi there! I'm Daniel Alejandro Acero, a systems engineering student passionate about building smart, efficient, and ethical solutions through technology. I focus on artificial intelligence & data science, software development, and cybersecurity, with a strong curiosity for the intersection of systems, economics, and innovation.
@@ -606,6 +613,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
