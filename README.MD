@@ -139,20 +139,81 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
-### 💻 Programming Languages
+### 📚 Frameworks & Libraries
 
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)  
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.java.com/)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/Guide/HTML/HTML5)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)  
-[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)  
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)  
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
-[![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)  
-[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)  
-[![AJAX](https://img.shields.io/badge/AJAX-0A0A0A?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
+<table align="center">
+  <tr>
+    <th colspan="5">📚 Frameworks & Libraries</th>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" height="40"/><br>React
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" height="40"/><br>Spring Boot
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="40"/><br>Node.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="40"/><br>Scikit-learn
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" height="40"/><br>TensorFlow
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" height="40"/><br>NumPy
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="40"/><br>Pandas
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" height="40"/><br>Matplotlib
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white" alt="Vite" height="40"/><br>Vite
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apache-spark&logoColor=white" alt="Apache Spark" height="40"/><br>Apache Spark
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" height="40"/><br>FastAPI
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white" alt="Scala" height="40"/><br>Scala
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Google_BigQuery-4285F4?logo=google-bigquery&logoColor=white" alt="BigQuery" height="40"/><br>BigQuery
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Apache_Kafka-231F20?logo=apache-kafka&logoColor=white" alt="Apache Kafka" height="40"/><br>Apache Kafka
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-KNIME-D9E30B?logo=knime&logoColor=black" alt="KNIME" height="40"/><br>KNIME
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Amazon_Redshift-FF0000?logo=amazon-redshift&logoColor=white" alt="Amazon Redshift" height="40"/><br>Amazon Redshift
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin" height="40"/><br>Kotlin
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" height="40"/><br>jQuery
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" height="40"/><br>Laravel
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-XML-FF6600?logo=w3c&logoColor=white" alt="XML" height="40"/><br>XML
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -364,6 +425,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
