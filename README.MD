@@ -139,7 +139,75 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
-
+<table align="center">
+  <tr>
+    <th colspan="6">💻 Programming Languages</th>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.python.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65"/><br>Python
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.java.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65"/><br>Java
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65"/><br>JavaScript
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65"/><br>TypeScript
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://developer.mozilla.org/docs/Web/Guide/HTML/HTML5">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65"/><br>HTML5
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://developer.mozilla.org/docs/Web/CSS">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65"/><br>CSS3
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.r-project.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="65" height="65"/><br>R
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.gnu.org/software/bash/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="65" height="65"/><br>Bash
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65"/><br>C
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://isocpp.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65"/><br>C++
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="65" height="65"/><br>SQL
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX">
+        <img src="https://img.shields.io/badge/AJAX-0A0A0A?logo=javascript&logoColor=white" alt="AJAX" width="65" height="65"/><br>AJAX
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -349,6 +417,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
