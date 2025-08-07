@@ -139,6 +139,8 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
+### 💻 Programming Languages
+
 <table align="center">
   <tr>
     <th colspan="6">💻 Programming Languages</th>
@@ -417,6 +419,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
