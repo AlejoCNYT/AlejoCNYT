@@ -6,11 +6,11 @@
 
 ## 📊 GitHub Metrics
 
-<!-- Calendario de contribuciones -->
-![Daniel’s GitHub Calendar](https://github.com/AlejoCNYT.png?tab=overview&theme=default)
+<!-- Estadísticas generales -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejoCNYT&show_icons=true&theme=default)
 
-<!-- Racha de contribuciones -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejoCNYT&theme=default&hide_border=true)
+<!-- Gráfica de actividad -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejoCNYT&theme=default&area=true)
 
 ---
 
@@ -616,6 +616,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
