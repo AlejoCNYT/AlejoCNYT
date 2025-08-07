@@ -139,80 +139,54 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
-### 📚 Frameworks & Libraries
+### 💻 Programming Languages
 
 <table align="center">
-  <tr>
-    <th colspan="5">📚 Frameworks & Libraries</th>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" height="40"/><br>React
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" height="40"/><br>Spring Boot
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="40"/><br>Node.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="40"/><br>Scikit-learn
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" height="40"/><br>TensorFlow
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" height="40"/><br>NumPy
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="40"/><br>Pandas
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" height="40"/><br>Matplotlib
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white" alt="Vite" height="40"/><br>Vite
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apache-spark&logoColor=white" alt="Apache Spark" height="40"/><br>Apache Spark
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" height="40"/><br>FastAPI
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white" alt="Scala" height="40"/><br>Scala
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Google_BigQuery-4285F4?logo=google-bigquery&logoColor=white" alt="BigQuery" height="40"/><br>BigQuery
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Apache_Kafka-231F20?logo=apache-kafka&logoColor=white" alt="Apache Kafka" height="40"/><br>Apache Kafka
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-KNIME-D9E30B?logo=knime&logoColor=black" alt="KNIME" height="40"/><br>KNIME
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Amazon_Redshift-FF0000?logo=amazon-redshift&logoColor=white" alt="Amazon Redshift" height="40"/><br>Amazon Redshift
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin" height="40"/><br>Kotlin
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" height="40"/><br>jQuery
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" height="40"/><br>Laravel
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-XML-FF6600?logo=w3c&logoColor=white" alt="XML" height="40"/><br>XML
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <th align="center" colspan="6">💻 Programming Languages</th>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" width="65" height="65"/></a><br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" width="65" height="65"/></a><br>Java
+      </td>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width="65" height="65"/></a><br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" width="65" height="65"/></a><br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" width="65" height="65"/></a><br>HTML5
+      </td>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" width="65" height="65"/></a><br>CSS3
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R" width="65" height="65"/></a><br>R
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash" width="65" height="65"/></a><br>Bash
+      </td>
+      <td align="center" width="96">
+        <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" width="65" height="65"/></a><br>C
+      </td>
+      <td align="center" width="96">
+        <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" width="65" height="65"/></a><br>C++
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" alt="SQL" width="65" height="65"/></a><br>SQL
+      </td>
+      <td align="center" width="96">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX"><img src="https://img.shields.io/badge/AJAX-0A0A0A?logo=javascript&logoColor=white" alt="AJAX" width="65" height="65"/></a><br>AJAX
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
@@ -220,77 +194,97 @@ I'm currently open to internships, research collaborations, and open-source cont
 ### 📚 Frameworks & Libraries
 
 <table align="center">
-  <tr>
-    <th colspan="5">📚 Frameworks & Libraries</th>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" height="40"/><br>React
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" height="40"/><br>Spring Boot
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" height="40"/><br>Node.js
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-learn" height="40"/><br>Scikit-learn
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" height="40"/><br>TensorFlow
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" height="40"/><br>NumPy
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" height="40"/><br>Pandas
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" height="40"/><br>Matplotlib
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white" alt="Vite" height="40"/><br>Vite
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?logo=apache-spark&logoColor=white" alt="Apache Spark" height="40"/><br>Apache Spark
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" height="40"/><br>FastAPI
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white" alt="Scala" height="40"/><br>Scala
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Google_BigQuery-4285F4?logo=google-bigquery&logoColor=white" alt="BigQuery" height="40"/><br>BigQuery
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Apache_Kafka-231F20?logo=apache-kafka&logoColor=white" alt="Apache Kafka" height="40"/><br>Apache Kafka
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-KNIME-D9E30B?logo=knime&logoColor=black" alt="KNIME" height="40"/><br>KNIME
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Amazon_Redshift-FF0000?logo=amazon-redshift&logoColor=white" alt="Amazon Redshift" height="40"/><br>Amazon Redshift
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin" height="40"/><br>Kotlin
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" height="40"/><br>jQuery
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" height="40"/><br>Laravel
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-XML-FF6600?logo=w3c&logoColor=white" alt="XML" height="40"/><br>XML
-    </td>
-  </tr>
+  <tbody>
+    <tr>
+      <th align="center" colspan="7">📚 Frameworks & Libraries</th>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65"/>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65"/>
+        <br>Spring Boot
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65"/>
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65"/>
+        <br>Scikit-learn
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="65" height="65"/>
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65"/>
+        <br>NumPy
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65"/>
+        <br>Pandas
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="65" height="65"/>
+        <br>Matplotlib
+      </td>
+      <td align="center" width="96">
+        <img src="https://vitejs.dev/logo.svg" alt="Vite" width="65" height="65"/>
+        <br>Vite
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="65" height="65"/>
+        <br>Apache Spark
+      </td>
+      <td align="center" width="96">
+        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="65" height="65"/>
+        <br>FastAPI
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="65" height="65"/>
+        <br>Scala
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_BigQuery_Logo.svg" alt="BigQuery" width="65" height="65"/>
+        <br>BigQuery
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="Apache Kafka" width="65" height="65"/>
+        <br>Apache Kafka
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/KNIME_logo.svg" alt="KNIME" width="65" height="65"/>
+        <br>KNIME
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Amazon_Redshift_Logo.svg" alt="Amazon Redshift" width="65" height="65"/>
+        <br>Redshift
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65" height="65"/>
+        <br>Kotlin
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="65" height="65"/>
+        <br>jQuery
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="65" height="65"/>
+        <br>Laravel
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/w3c/svg/logos/w3c.svg" alt="XML" width="65" height="65"/>
+        <br>XML
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
@@ -405,6 +399,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
