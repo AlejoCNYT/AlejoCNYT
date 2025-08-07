@@ -182,6 +182,104 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
+### 📚 Frameworks & Libraries
+
+<table align="center">
+  <tbody>
+    <tr>
+      <th align="center" colspan="7">📚 Frameworks & Libraries</th>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65"/>
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65"/>
+        <br>Spring Boot
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65"/>
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65"/>
+        <br>Scikit-learn
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="65" height="65"/>
+        <br>TensorFlow
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65"/>
+        <br>NumPy
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65"/>
+        <br>Pandas
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="65" height="65"/>
+        <br>Matplotlib
+      </td>
+      <td align="center" width="96">
+        <img src="https://vitejs.dev/logo.svg" alt="Vite" width="65" height="65"/>
+        <br>Vite
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="65" height="65"/>
+        <br>Apache Spark
+      </td>
+      <td align="center" width="96">
+        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="65" height="65"/>
+        <br>FastAPI
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="65" height="65"/>
+        <br>Scala
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_BigQuery_Logo.svg" alt="BigQuery" width="65" height="65"/>
+        <br>BigQuery
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="Apache Kafka" width="65" height="65"/>
+        <br>Apache Kafka
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/KNIME_logo.svg" alt="KNIME" width="65" height="65"/>
+        <br>KNIME
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Amazon_Redshift_Logo.svg" alt="Amazon Redshift" width="65" height="65"/>
+        <br>Redshift
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65" height="65"/>
+        <br>Kotlin
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="65" height="65"/>
+        <br>jQuery
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="65" height="65"/>
+        <br>Laravel
+      </td>
+      <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/w3c/svg/logos/w3c.svg" alt="XML" width="65" height="65"/>
+        <br>XML
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ### 🖥️ Operating Systems
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white" title="Kali Linux" height="30"/>
@@ -343,4 +441,5 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
