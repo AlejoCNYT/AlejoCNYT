@@ -276,14 +276,15 @@ I'm currently open to internships, research collaborations, and open-source cont
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="65" height="65"/><br>jQuery
       </td>
       <td align="center" width="96">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Amazon_Redshift_Logo.svg" alt="Amazon Redshift" width="65" height="65"/><br>Redshift
+      </td>
+      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="65" height="65"/><br>Laravel
       </td>
       <td align="center" width="96">
         <img src="https://upload.wikimedia.org/w3c/svg/logos/w3c.svg" alt="XML" width="65" height="65"/><br>XML
       </td>
-      <td align="center" width="96">
-        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="65" height="65"/><br>FastAPI
-      </td>
+
     </tr>
   </tbody>
 </table>
@@ -400,6 +401,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
