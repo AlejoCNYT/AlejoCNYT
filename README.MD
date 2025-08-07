@@ -253,13 +253,13 @@ I'm currently open to internships, research collaborations, and open-source cont
         <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="65" height="65"/><br>FastAPI
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="65" height="65"/><br>Scala
+        <img src="https://img.shields.io/badge/Amazon_Redshift-FF0000?logo=amazon-redshift&logoColor=white" alt="Amazon Redshift" height="40"/><br>Redshift
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_BigQuery_Logo.svg" alt="BigQuery" width="65" height="65"/><br>BigQuery
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" height="40"/><br>Laravel
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_kafka.svg" alt="Apache Kafka" width="65" height="65"/><br>Apache Kafka
+        <img src="https://img.shields.io/badge/XML-FF6600?logo=w3c&logoColor=white" alt="XML" height="40"/><br>XML
       </td>
     </tr>
     <tr>
@@ -276,13 +276,15 @@ I'm currently open to internships, research collaborations, and open-source cont
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="65" height="65"/><br>jQuery
       </td>
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Amazon_Redshift_Logo.svg" alt="Amazon Redshift" width="65" height="65"/><br>Redshift
+        <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-bigquery&logoColor=white" alt="BigQuery" height="40"/><br>BigQuery
       </td>
+      
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="65" height="65"/><br>Laravel
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white" alt="Apache Kafka" height="40"/><br>Apache Kafka
       </td>
+      
       <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/w3c/svg/logos/w3c.svg" alt="XML" width="65" height="65"/><br>XML
+        <img src="https://img.shields.io/badge/KNIME-D9E30B?logo=knime&logoColor=black" alt="KNIME" height="40"/><br>KNIME
       </td>
 
     </tr>
@@ -401,6 +403,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
