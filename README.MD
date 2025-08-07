@@ -139,9 +139,54 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
-
+<table align="center">
+  <tr>
+    <th colspan="6">💻 Programming Languages</th>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" height="30"/><br>Python</a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.java.com/"><img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java" height="30"/><br>Java</a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="30"/><br>JavaScript</a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" height="30"/><br>TypeScript</a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://developer.mozilla.org/docs/Web/Guide/HTML/HTML5"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" height="30"/><br>HTML5</a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" height="30"/><br>CSS3</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white" alt="R" height="30"/><br>R</a>
+    </td>
+    <td align="center">
+      <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash" height="30"/><br>Bash</a>
+    </td>
+    <td align="center">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white" alt="C" height="30"/><br>C</a>
+    </td>
+    <td align="center">
+      <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="30"/><br>C++</a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white" alt="SQL" height="30"/><br>SQL</a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX"><img src="https://img.shields.io/badge/-AJAX-0A0A0A?logo=javascript&logoColor=white" alt="AJAX" height="30"/><br>AJAX</a>
+    </td>
+  </tr>
+</table>
 
 ---
+
 
 <table align="center">
   <tbody>
@@ -349,6 +394,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
