@@ -3,15 +3,15 @@
 🎓 *Systems Engineering Student | AI Enthusiast | Software Developer | IoT Explorer*
 
 ---
-<!--
-## 📊 GitHub Metrics
+
+<!-- ## 📊 GitHub Metrics -->
 
 <!-- Estadísticas generales -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejoCNYT&show_icons=true&theme=default)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejoCNYT&show_icons=true&theme=default) -->
 
 <!-- Gráfica de actividad -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejoCNYT&theme=cobalt&custom_title=Actividad%20GitHub&width=700&height=150&locale=es)
--->
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejoCNYT&theme=cobalt&custom_title=Actividad%20GitHub&width=700&height=150&locale=es) -->
+
 
 ---
 
@@ -617,6 +617,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
