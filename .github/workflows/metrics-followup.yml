@@ -3,7 +3,6 @@ name: Generate GitHub Follow-up Chart
 on:
   workflow_dispatch:
 
-# Clave para evitar el "Resource not accessible..."
 permissions:
   contents: write
   actions: read
@@ -12,16 +11,23 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Genera el SVG con lowlighter/metrics
+      # Verifica que METRICS_TOKEN exista (evita perder tiempo)
+      - name: Verify METRICS_TOKEN presence
+        run: |
+          if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
+            echo "ERROR: METRICS_TOKEN secret is missing."
+            exit 1
+          fi
+          echo "Secret METRICS_TOKEN detected (value hidden)."
+
       - name: Generate metrics SVG
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN }}   # usa tu PAT con scopes
+          token: ${{ secrets.METRICS_TOKEN }}   # <- usa el secreto
           user: AlejoCNYT
           template: classic
           config_timezone: America/Bogota
@@ -34,7 +40,6 @@ jobs:
           plugin_stars_limit: 6
           filename: metrics-followup.svg
 
-      # Commitea el archivo generado al repo
       - name: Commit metrics
         run: |
           git config user.name "github-actions[bot]"
