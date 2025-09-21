@@ -1,26 +1,46 @@
 name: Generate GitHub Follow-up Chart
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"     # Se actualiza cada 12 horas
   workflow_dispatch:
+
+# Clave para evitar el "Resource not accessible..."
+permissions:
+  contents: write
+  actions: read
+  pull-requests: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Con el token por defecto es suficiente para datos públicos
-          token: ${{ secrets.GITHUB_TOKEN }}
 
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Genera el SVG con lowlighter/metrics
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}   # usa tu PAT con scopes
           user: AlejoCNYT
           template: classic
-          filename: metrics/followup.svg
-          base: ""                       # Oculta cabecera/otros bloques
           config_timezone: America/Bogota
-
-          # === Plugin que dibuja la "cruz" de estadísticas ===
+          base: header, activity, community, repositories, metadata
           plugin_followup: yes
-          plugin_followup_sections: repositories     # Usa actividad del usuario
-          plugin_followup_indepth: yes               # Desglose detallado
+          plugin_followup_sections: repositories, user
+          plugin_achievements: yes
+          plugin_gists: yes
+          plugin_stars: yes
+          plugin_stars_limit: 6
+          filename: metrics-followup.svg
+
+      # Commitea el archivo generado al repo
+      - name: Commit metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          mkdir -p assets
+          mv metrics-followup.svg assets/metrics-followup.svg
+          git add assets/metrics-followup.svg
+          git commit -m "chore(metrics): update follow-up chart" || echo "No changes to commit"
+          git push
