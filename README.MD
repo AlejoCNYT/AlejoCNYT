@@ -11,7 +11,8 @@
 
 <!-- Gráfica de actividad -->
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejoCNYT&theme=cobalt&custom_title=Actividad%20GitHub&width=700&height=150&locale=es) -->
-## 📊 Contribution Breakdown
+## 📊 GitHub Follow-up Chart
+<img src="assets/metrics-followup.svg" alt="GitHub Metrics follow-up" />
 
 ## 📊 GitHub Follow-up Chart
 <img src="assets/metrics-followup.svg" alt="GitHub Metrics follow-up" />
@@ -620,6 +621,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
