@@ -1,51 +1,38 @@
-name: Generate GitHub Follow-up Chart
-
-on:
-  workflow_dispatch:
+name: Metrics Smoke Test
+on: workflow_dispatch
 
 permissions:
   contents: write
-  actions: read
-  pull-requests: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      # Verifica que METRICS_TOKEN exista (evita perder tiempo)
       - name: Verify METRICS_TOKEN presence
         run: |
           if [ -z "${{ secrets.METRICS_TOKEN }}" ]; then
-            echo "ERROR: METRICS_TOKEN secret is missing."
+            echo "ERROR: METRICS_TOKEN missing"
             exit 1
           fi
-          echo "Secret METRICS_TOKEN detected (value hidden)."
 
-      - name: Generate metrics SVG
+      - name: Generate basic metrics
         uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN }}   # <- usa el secreto
+          token: ${{ secrets.METRICS_TOKEN }}
           user: AlejoCNYT
-          template: classic
+          base: header             # sin plugins, solo header
+          filename: metrics-smoke.svg
           config_timezone: America/Bogota
-          base: header, activity, community, repositories, metadata
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-          plugin_achievements: yes
-          plugin_gists: yes
-          plugin_stars: yes
-          plugin_stars_limit: 6
-          filename: metrics-followup.svg
+          plugins_errors_fatal: no # si algo falla, que no corte el job
 
-      - name: Commit metrics
+      - name: Commit smoke svg
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           mkdir -p assets
-          mv metrics-followup.svg assets/metrics-followup.svg
-          git add assets/metrics-followup.svg
-          git commit -m "chore(metrics): update follow-up chart" || echo "No changes to commit"
+          mv metrics-smoke.svg assets/metrics-smoke.svg
+          git add assets/metrics-smoke.svg
+          git commit -m "chore(metrics): smoke svg" || echo "No changes"
           git push
