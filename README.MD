@@ -11,6 +11,12 @@
 
 <!-- Gráfica de actividad -->
 <!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlejoCNYT&theme=cobalt&custom_title=Actividad%20GitHub&width=700&height=150&locale=es) -->
+## 📊 Contribution Breakdown
+
+<!-- La imagen la generará el workflow de abajo -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlejoCNYT/AlejoCNYT/main/metrics/followup.svg" width="420" alt="GitHub contribution breakdown (commits, PRs, issues, code review)" />
+</p>
 
 
 ---
@@ -617,6 +623,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
