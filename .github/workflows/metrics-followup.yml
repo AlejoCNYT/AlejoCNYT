@@ -1,0 +1,26 @@
+name: Generate GitHub Follow-up Chart
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"     # Se actualiza cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Con el token por defecto es suficiente para datos públicos
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          user: AlejoCNYT
+          template: classic
+          filename: metrics/followup.svg
+          base: ""                       # Oculta cabecera/otros bloques
+          config_timezone: America/Bogota
+
+          # === Plugin que dibuja la "cruz" de estadísticas ===
+          plugin_followup: yes
+          plugin_followup_sections: repositories     # Usa actividad del usuario
+          plugin_followup_indepth: yes               # Desglose detallado
