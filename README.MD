@@ -9,8 +9,8 @@
 <!-- Estadísticas generales -->
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejoCNYT&show_icons=true&theme=default) -->
 
-## 📊 GitHub Follow-up Chart
-<img src="assets/metrics-followup.svg" alt="GitHub Metrics follow-up" />
+<!-- ## 📊 GitHub Follow-up Chart -->
+<!-- <img src="assets/metrics-followup.svg" alt="GitHub Metrics follow-up" /> -->
 
 ---
 
@@ -616,6 +616,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
