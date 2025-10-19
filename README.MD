@@ -587,9 +587,9 @@ I'm currently open to internships, research collaborations, and open-source cont
 
   [Backend Repository](https://github.com/Santiago-Cordoba/BombermanARSW-Back) | [Frontend Repository](https://github.com/Santiago-Cordoba/BombermanARSW-Front/tree/develop)
 
-* **Bomberman Web Multiplayer Game** — Spring Boot + React + WebSocket/STOMP.  
-  Real-time rooms, sincronización por tópicos STOMP y lógica server-side.
-  [Back](https://github.com/Santiago-Cordoba/BombermanARSW-Back) · [Front](https://github.com/Santiago-Cordoba/BombermanARSW-Front/tree/develop)
+* **Econexion RRR APP** - Full-stack marketplace using Spring Boot, React/React Native & WebSocket — JWT authentication, SQL/NoSQL support, and real-time chat & orders.
+
+  [Full Repository](https://github.com/Eco-nexion/econexion-app)
 
 * **Forensics Tools & Scripts** – Experiments in reverse engineering & forensic automation
 
@@ -620,6 +620,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
