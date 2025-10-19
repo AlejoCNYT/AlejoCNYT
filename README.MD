@@ -583,13 +583,13 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ## 📂 Featured Projects
 
+* **Econexion eco-app** - Full-stack marketplace using Spring Boot, React/React Native & WebSocket — JWT authentication, SQL/NoSQL support, and real-time chat & orders.
+
+  [Full Repository](https://github.com/Eco-nexion/econexion-app)
+
 * **Bomberman Web Multiplayer Game** – Fullstack game using Spring Boot, React, WebSocket & STOMP
 
   [Backend Repository](https://github.com/Santiago-Cordoba/BombermanARSW-Back) | [Frontend Repository](https://github.com/Santiago-Cordoba/BombermanARSW-Front/tree/develop)
-
-* **Econexion RRR APP** - Full-stack marketplace using Spring Boot, React/React Native & WebSocket — JWT authentication, SQL/NoSQL support, and real-time chat & orders.
-
-  [Full Repository](https://github.com/Eco-nexion/econexion-app)
 
 * **Forensics Tools & Scripts** – Experiments in reverse engineering & forensic automation
 
@@ -620,6 +620,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
