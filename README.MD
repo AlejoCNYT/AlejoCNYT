@@ -587,6 +587,10 @@ I'm currently open to internships, research collaborations, and open-source cont
 
   [Backend Repository](https://github.com/Santiago-Cordoba/BombermanARSW-Back) | [Frontend Repository](https://github.com/Santiago-Cordoba/BombermanARSW-Front/tree/develop)
 
+* **Bomberman Web Multiplayer Game** — Spring Boot + React + WebSocket/STOMP.  
+  Real-time rooms, sincronización por tópicos STOMP y lógica server-side.
+  [Back](https://github.com/Santiago-Cordoba/BombermanARSW-Back) · [Front](https://github.com/Santiago-Cordoba/BombermanARSW-Front/tree/develop)
+
 * **Forensics Tools & Scripts** – Experiments in reverse engineering & forensic automation
 
 <a href="https://tryhackme.com">
@@ -616,6 +620,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
