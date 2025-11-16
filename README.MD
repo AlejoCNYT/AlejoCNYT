@@ -1,7 +1,5 @@
 # 👨‍💻 Daniel Alejandro Acero Varela
 
-> “Behind every great system, there’s a human who never stopped learning.”
-
 🎓 *Systems Engineering Student | AI Enthusiast | Software Developer | IoT Explorer*
 
 ---
@@ -147,7 +145,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
-> 🧹 Always exploring how software, data, and creativity can solve real-world challenges through ethical, efficient, and scalable technologies.
+> 🧹 “Behind every great system, there’s a human who never stopped learning.”
 
 ---
 
@@ -622,6 +620,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
