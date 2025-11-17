@@ -347,106 +347,78 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 <table align="center">
-  <thead>
-    <tr>
-      <th colspan="6">🛠️ Tools & Platforms</th>
-    </tr>
-  </thead>
-  <tbody>
+  <tr>
+    <th colspan="6">🧪 Testing, QA & Build Tools</th>
+  </tr>
 
-    <!-- QA / BUILD TOOLS -->
-    <tr>
-      <td align="center" width="120">
-        <a href="https://gradle.org/">
-          <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://yaml.org/">
-          <img src="https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://cucumber.io/">
-          <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.selenium.dev/">
-          <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://cucumber.io/docs/gherkin/">
-          <img src="https://img.shields.io/badge/Gherkin-22C55E?logo=cucumber&logoColor=white" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120"> </td>
-    </tr>
+  <!-- Row 1 -->
+  <tr>
+    <td align="center" width="120">
+      <a href="https://gradle.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://yaml.org/">
+        <img src="https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white" alt="YAML" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://cucumber.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.selenium.dev/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://cucumber.io/docs/gherkin/">
+        <img src="https://img.shields.io/badge/Gherkin-23D96C?logo=cucumber&logoColor=white" alt="Gherkin" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://react.dev/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65"/><br>
+      </a>
+    </td>
+  </tr>
 
-    <!-- GIT / DATABASES / DOCKER -->
-    <tr>
-      <td align="center" width="120">
-        <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="40"/></a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="40"/></a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" height="40"/></a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" height="40"/></a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white" height="40"/></a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" height="40"/></a>
-      </td>
-    </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td align="center" width="120">
+      <a href="https://git-scm.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.postgresql.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.docker.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX">
+        <img src="https://img.shields.io/badge/AJAX-0A0A0A?logo=javascript&logoColor=white" alt="AJAX" width="65" height="65"/><br>
+      </a>
+    </td>
+  </tr>
 
-    <!-- CLOUD / VM / POSTMAN -->
-    <tr>
-      <td align="center"><a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.linux.org/"><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="40"/></a></td>
-    </tr>
-
-    <!-- OS / LATEX / OVERLEAF / ORACLE -->
-    <tr>
-      <td align="center"><a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.android.com/"><img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.overleaf.com/"><img src="https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.oracle.com/database/sqldeveloper/"><img src="https://img.shields.io/badge/-Oracle_SQL_Developer-FF0000?logo=oracle&logoColor=white" height="40"/></a></td>
-    </tr>
-
-    <!-- OFFICE / UML / CISCO / POWER BI -->
-    <tr>
-      <td align="center"><a href="https://www.microsoft.com/microsoft-365"><img src="https://img.shields.io/badge/-Office_365-D83B01?logo=microsoft-office&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://astah.net/"><img src="https://img.shields.io/badge/-Astah_UML-1C1C1C?logo=uml&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black" height="40"/></a></td>
-    </tr>
-
-    <!-- IDEs / JUPYTER / ANALYTICS -->
-    <tr>
-      <td align="center"><a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?logo=jupyter&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://posit.co/download/rstudio-desktop/"><img src="https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.bluej.org/"><img src="https://img.shields.io/badge/-BlueJ-002147?logo=java&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white" height="40"/></a></td>
-      <td align="center"><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" height="40"/></a></td>
-    </tr>
-
-  </tbody>
 </table>
 
 ---
@@ -553,6 +525,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
