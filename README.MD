@@ -358,202 +358,92 @@ I'm currently open to internships, research collaborations, and open-source cont
     <tr>
       <td align="center" width="120">
         <a href="https://gradle.org/">
-          <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white" alt="Gradle" height="40"/><br>
+          <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white" height="40"/><br>
         </a>
       </td>
       <td align="center" width="120">
         <a href="https://yaml.org/">
-          <img src="https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white" alt="YAML" height="40"/><br>
+          <img src="https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white" height="40"/><br>
         </a>
       </td>
       <td align="center" width="120">
         <a href="https://cucumber.io/">
-          <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white" alt="Cucumber" height="40"/><br>
+          <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white" height="40"/><br>
         </a>
       </td>
       <td align="center" width="120">
         <a href="https://www.selenium.dev/">
-          <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium" height="40"/><br>
+          <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" height="40"/><br>
         </a>
       </td>
       <td align="center" width="120">
         <a href="https://cucumber.io/docs/gherkin/">
-          <img src="https://img.shields.io/badge/Gherkin-22C55E?logo=cucumber&logoColor=white" alt="Gherkin" height="40"/><br>
+          <img src="https://img.shields.io/badge/Gherkin-22C55E?logo=cucumber&logoColor=white" height="40"/><br>
         </a>
       </td>
-      <td align="center" width="120">
-        <!-- espacio reservado (JUnit, Jest, etc.) -->
-      </td>
+      <td align="center" width="120"> </td>
     </tr>
 
     <!-- GIT / DATABASES / DOCKER -->
     <tr>
       <td align="center" width="120">
-        <a href="https://git-scm.com/">
-          <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" height="40" width="65"/><br>
-        </a>
+        <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" height="40"/></a>
       </td>
       <td align="center" width="120">
-        <a href="https://github.com">
-          <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" height="40" width="65"/><br>
-        </a>
+        <a href="https://github.com"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" height="40"/></a>
       </td>
       <td align="center" width="120">
-        <a href="https://www.postgresql.org/">
-          <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" height="40" width="65"/><br>
-        </a>
+        <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" height="40"/></a>
       </td>
       <td align="center" width="120">
-        <a href="https://www.mongodb.com/">
-          <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="40" width="65"/><br>
-        </a>
+        <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" height="40"/></a>
       </td>
       <td align="center" width="120">
-        <a href="https://mariadb.org/">
-          <img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white" alt="MariaDB" height="40" width="65"/><br>
-        </a>
+        <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white" height="40"/></a>
       </td>
       <td align="center" width="120">
-        <a href="https://www.docker.com/">
-          <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="40" width="65"/><br>
-        </a>
+        <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" height="40"/></a>
       </td>
     </tr>
 
     <!-- CLOUD / VM / POSTMAN -->
     <tr>
-      <td align="center" width="120">
-        <a href="https://www.virtualbox.org/">
-          <img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white" alt="VirtualBox" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.postman.com/">
-          <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://azure.microsoft.com/">
-          <img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white" alt="Azure" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://aws.amazon.com/">
-          <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://cloud.google.com/">
-          <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud" height="40" width="65"/><br> 
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.linux.org/">
-          <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux" height="40" width="65"/><br>
-        </a>
-      </td>
+      <td align="center"><a href="https://www.virtualbox.org/"><img src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.linux.org/"><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" height="40"/></a></td>
     </tr>
 
     <!-- OS / LATEX / OVERLEAF / ORACLE -->
     <tr>
-      <td align="center" width="120">
-        <a href="https://www.microsoft.com/windows">
-          <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white" alt="Windows" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.apple.com/macos/">
-          <img src="https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white" alt="macOS" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.android.com/">
-          <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white" alt="Android" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.latex-project.org/">
-          <img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" alt="LaTeX" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.overleaf.com/">
-          <img src="https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white" alt="Overleaf" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.oracle.com/database/sqldeveloper/">
-          <img src="https://img.shields.io/badge/-Oracle_SQL_Developer-FF0000?logo=oracle&logoColor=white" alt="Oracle SQL Developer" height="40" width="65"/><br> 
-        </a>
-      </td>
+      <td align="center"><a href="https://www.microsoft.com/windows"><img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.android.com/"><img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/-LaTeX-008080?logo=latex&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.overleaf.com/"><img src="https://img.shields.io/badge/-Overleaf-47A141?logo=overleaf&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.oracle.com/database/sqldeveloper/"><img src="https://img.shields.io/badge/-Oracle_SQL_Developer-FF0000?logo=oracle&logoColor=white" height="40"/></a></td>
     </tr>
 
     <!-- OFFICE / UML / CISCO / POWER BI -->
     <tr>
-      <td align="center" width="120">
-        <a href="https://www.microsoft.com/microsoft-365">
-          <img src="https://img.shields.io/badge/-Office_365-D83B01?logo=microsoft-office&logoColor=white" alt="Office 365" height="40" width="65"/><br> 
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://astah.net/">
-          <img src="https://img.shields.io/badge/-Astah_UML-1C1C1C?logo=uml&logoColor=white" alt="Astah UML" height="40" width="65"/><br> 
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.markdownguide.org/">
-          <img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white" alt="Markdown" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.cisco.com/">
-          <img src="https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white" alt="Cisco" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.netacad.com/courses/packet-tracer">
-          <img src="https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white" alt="Packet Tracer" height="40" width="65"/><br> 
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://powerbi.microsoft.com/">
-          <img src="https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI" height="40" width="65"/><br> 
-        </a>
-      </td>
+      <td align="center"><a href="https://www.microsoft.com/microsoft-365"><img src="https://img.shields.io/badge/-Office_365-D83B01?logo=microsoft-office&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://astah.net/"><img src="https://img.shields.io/badge/-Astah_UML-1C1C1C?logo=uml&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.markdownguide.org/"><img src="https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.cisco.com/"><img src="https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/-Packet_Tracer-1BA0D7?logo=cisco&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/-Power_BI-F2C811?logo=powerbi&logoColor=black" height="40"/></a></td>
     </tr>
 
-    <!-- IDEs / ANALYTICS / PROGRAMMING TOOLS -->
+    <!-- IDEs / JUPYTER / ANALYTICS -->
     <tr>
-      <td align="center" width="120">
-        <a href="https://jupyter.org/">
-          <img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter Notebook" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://posit.co/download/rstudio-desktop/">
-          <img src="https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white" alt="RStudio" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.bluej.org/">
-          <img src="https://img.shields.io/badge/-BlueJ-002147?logo=java&logoColor=white" alt="BlueJ" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.jetbrains.com/idea/">
-          <img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" height="40" width="65"/><br> 
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.jetbrains.com/pycharm/">
-          <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white" alt="PyCharm" height="40" width="65"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://code.visualstudio.com/">
-          <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" height="40" width="65"/><br> 
-        </a>
-      </td>
+      <td align="center"><a href="https://jupyter.org/"><img src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?logo=jupyter&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://posit.co/download/rstudio-desktop/"><img src="https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.bluej.org/"><img src="https://img.shields.io/badge/-BlueJ-002147?logo=java&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white" height="40"/></a></td>
+      <td align="center"><a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white" height="40"/></a></td>
     </tr>
 
   </tbody>
@@ -663,6 +553,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
