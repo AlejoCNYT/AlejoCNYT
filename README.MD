@@ -347,78 +347,218 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 <table align="center">
-  <tr>
-    <th colspan="6">🧪 Testing, QA & Build Tools</th>
-  </tr>
+  <thead>
+    <tr>
+      <th colspan="6">🛠️ Tools & Platforms</th>
+    </tr>
+  </thead>
+  <tbody>
 
-  <!-- Row 1 -->
-  <tr>
-    <td align="center" width="120">
-      <a href="https://gradle.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="65" height="65"/><br>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://yaml.org/">
-        <img src="https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white" alt="YAML" width="65" height="65"/><br>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://cucumber.io/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="65" height="65"/><br>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.selenium.dev/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65"/><br>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://cucumber.io/docs/gherkin/">
-        <img src="https://img.shields.io/badge/Gherkin-23D96C?logo=cucumber&logoColor=white" alt="Gherkin" width="65" height="65"/><br>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://react.dev/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65"/><br>
-      </a>
-    </td>
-  </tr>
+    <!-- ROW 1 -->
+    <tr>
+      <td align="center" width="120">
+        <a href="https://gradle.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="65" height="65" alt="Gradle"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://yaml.org/">
+          <img src="https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white" width="65" height="65" alt="YAML"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://cucumber.io/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="65" height="65" alt="Cucumber"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://www.selenium.dev/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="65" height="65" alt="Selenium"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://cucumber.io/docs/gherkin/">
+          <img src="https://img.shields.io/badge/Gherkin-23D96C?logo=cucumber&logoColor=white" width="65" height="65" alt="Gherkin"/>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://react.dev/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React"/>
+        </a>
+      </td>
+    </tr>
 
-  <!-- Row 2 -->
-  <tr>
-    <td align="center" width="120">
-      <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65"/><br>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://github.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="65" height="65"/><br>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.postgresql.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65"/><br>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://www.docker.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="65" height="65"/><br>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="65" height="65"/><br>
-      </a>
-    </td>
-    <td align="center" width="120">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX">
-        <img src="https://img.shields.io/badge/AJAX-0A0A0A?logo=javascript&logoColor=white" alt="AJAX" width="65" height="65"/><br>
-      </a>
-    </td>
-  </tr>
+    <!-- ROW 2 -->
+    <tr>
+      <td align="center">
+        <a href="https://git-scm.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.postgresql.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.mongodb.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://mariadb.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="65" height="65" alt="MariaDB"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.docker.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker"/>
+        </a>
+      </td>
+    </tr>
 
+    <!-- ROW 3 -->
+    <tr>
+      <td align="center">
+        <a href="https://www.virtualbox.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="65" height="65" alt="VirtualBox"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.postman.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="65" height="65" alt="Postman"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://azure.microsoft.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="65" height="65" alt="Azure"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://aws.amazon.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="65" height="65" alt="AWS"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://cloud.google.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="65" height="65" alt="Google Cloud"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.linux.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/>
+        </a>
+      </td>
+    </tr>
+
+    <!-- ROW 4 -->
+    <tr>
+      <td align="center">
+        <a href="https://www.microsoft.com/windows">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="65" height="65" alt="Windows"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.apple.com/macos/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="65" height="65" alt="macOS"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.android.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="65" height="65" alt="Android"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.latex-project.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="65" height="65" alt="LaTeX"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.overleaf.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/overleaf/overleaf-original.svg" width="65" height="65" alt="Overleaf"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.oracle.com/database/sqldeveloper/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="65" height="65" alt="Oracle SQL Developer"/>
+        </a>
+      </td>
+    </tr>
+
+    <!-- ROW 5 -->
+    <tr>
+      <td align="center">
+        <a href="https://www.microsoft.com/microsoft-365">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" width="65" height="65" alt="Office 365"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://astah.net/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uml/uml-original.svg" width="65" height="65" alt="Astah UML"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.markdownguide.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="65" height="65" alt="Markdown"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.cisco.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="65" height="65" alt="Cisco"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.netacad.com/courses/packet-tracer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="65" height="65" alt="Packet Tracer"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://powerbi.microsoft.com/">
+          <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" width="65" height="65" alt="Power BI"/>
+        </a>
+      </td>
+    </tr>
+
+    <!-- ROW 6 -->
+    <tr>
+      <td align="center">
+        <a href="https://jupyter.org/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" alt="Jupyter Notebook"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://posit.co/download/rstudio-desktop/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="65" height="65" alt="RStudio"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.bluej.org/">
+          <img src="https://img.shields.io/badge/BlueJ-002147?logo=java&logoColor=white" width="65" height="65" alt="BlueJ"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.jetbrains.com/idea/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="65" height="65" alt="IntelliJ IDEA"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.jetbrains.com/pycharm/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://code.visualstudio.com/">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VSCode"/>
+        </a>
+      </td>
+    </tr>
+
+  </tbody>
 </table>
 
 ---
@@ -525,6 +665,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
