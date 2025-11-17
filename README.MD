@@ -353,6 +353,8 @@ I'm currently open to internships, research collaborations, and open-source cont
     </tr>
   </thead>
   <tbody>
+
+    <!-- QA / BUILD TOOLS -->
     <tr>
       <td align="center" width="120">
         <a href="https://gradle.org/">
@@ -374,20 +376,17 @@ I'm currently open to internships, research collaborations, and open-source cont
           <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium" height="40"/><br>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="120">
         <a href="https://cucumber.io/docs/gherkin/">
           <img src="https://img.shields.io/badge/Gherkin-22C55E?logo=cucumber&logoColor=white" alt="Gherkin" height="40"/><br>
         </a>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="120">
-        <!-- espacio libre para futuro (JUnit, Jest, etc.) -->
+        <!-- espacio reservado (JUnit, Jest, etc.) -->
       </td>
-      <td align="center" width="120">
     </tr>
+
+    <!-- GIT / DATABASES / DOCKER -->
     <tr>
       <td align="center" width="120">
         <a href="https://git-scm.com/">
@@ -420,6 +419,8 @@ I'm currently open to internships, research collaborations, and open-source cont
         </a>
       </td>
     </tr>
+
+    <!-- CLOUD / VM / POSTMAN -->
     <tr>
       <td align="center" width="120">
         <a href="https://www.virtualbox.org/">
@@ -452,6 +453,8 @@ I'm currently open to internships, research collaborations, and open-source cont
         </a>
       </td>
     </tr>
+
+    <!-- OS / LATEX / OVERLEAF / ORACLE -->
     <tr>
       <td align="center" width="120">
         <a href="https://www.microsoft.com/windows">
@@ -484,6 +487,8 @@ I'm currently open to internships, research collaborations, and open-source cont
         </a>
       </td>
     </tr>
+
+    <!-- OFFICE / UML / CISCO / POWER BI -->
     <tr>
       <td align="center" width="120">
         <a href="https://www.microsoft.com/microsoft-365">
@@ -516,6 +521,8 @@ I'm currently open to internships, research collaborations, and open-source cont
         </a>
       </td>
     </tr>
+
+    <!-- IDEs / ANALYTICS / PROGRAMMING TOOLS -->
     <tr>
       <td align="center" width="120">
         <a href="https://jupyter.org/">
@@ -548,6 +555,7 @@ I'm currently open to internships, research collaborations, and open-source cont
         </a>
       </td>
     </tr>
+
   </tbody>
 </table>
 
@@ -655,6 +663,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
