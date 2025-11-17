@@ -377,21 +377,6 @@ I'm currently open to internships, research collaborations, and open-source cont
     </tr>
     <tr>
       <td align="center" width="120">
-        <a href="https://www.postgresql.org/">
-          <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.docker.com/">
-          <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://code.visualstudio.com/">
-          <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
         <a href="https://cucumber.io/docs/gherkin/">
           <img src="https://img.shields.io/badge/Gherkin-22C55E?logo=cucumber&logoColor=white" alt="Gherkin" height="40"/><br>
         </a>
@@ -399,17 +384,9 @@ I'm currently open to internships, research collaborations, and open-source cont
     </tr>
     <tr>
       <td align="center" width="120">
-        <a href="https://react.dev/">
-          <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
         <!-- espacio libre para futuro (JUnit, Jest, etc.) -->
       </td>
       <td align="center" width="120">
-      </td>
-      <td align="center" width="120">
-      </td>
     </tr>
     <tr>
       <td align="center" width="120">
@@ -678,6 +655,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
