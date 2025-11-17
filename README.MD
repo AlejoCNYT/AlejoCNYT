@@ -355,6 +355,64 @@ I'm currently open to internships, research collaborations, and open-source cont
   <tbody>
     <tr>
       <td align="center" width="120">
+        <a href="https://gradle.org/">
+          <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white" alt="Gradle" height="40"/><br>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://yaml.org/">
+          <img src="https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white" alt="YAML" height="40"/><br>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://cucumber.io/">
+          <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white" alt="Cucumber" height="40"/><br>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://www.selenium.dev/">
+          <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium" height="40"/><br>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <a href="https://www.postgresql.org/">
+          <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" height="40"/><br>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://www.docker.com/">
+          <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="40"/><br>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://code.visualstudio.com/">
+          <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" height="40"/><br>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://cucumber.io/docs/gherkin/">
+          <img src="https://img.shields.io/badge/Gherkin-22C55E?logo=cucumber&logoColor=white" alt="Gherkin" height="40"/><br>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <a href="https://react.dev/">
+          <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" height="40"/><br>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <!-- espacio libre para futuro (JUnit, Jest, etc.) -->
+      </td>
+      <td align="center" width="120">
+      </td>
+      <td align="center" width="120">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
         <a href="https://git-scm.com/">
           <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git" height="40" width="65"/><br>
         </a>
@@ -521,76 +579,6 @@ I'm currently open to internships, research collaborations, and open-source cont
 <table align="center">
   <thead>
     <tr>
-      <th colspan="4">🧪 Testing, QA & Build Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="120">
-        <a href="https://gradle.org/">
-          <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white" alt="Gradle" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://yaml.org/">
-          <img src="https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white" alt="YAML" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://cucumber.io/">
-          <img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white" alt="Cucumber" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.selenium.dev/">
-          <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium" height="40"/><br>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <a href="https://www.postgresql.org/">
-          <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.docker.com/">
-          <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://code.visualstudio.com/">
-          <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://cucumber.io/docs/gherkin/">
-          <img src="https://img.shields.io/badge/Gherkin-22C55E?logo=cucumber&logoColor=white" alt="Gherkin" height="40"/><br>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <a href="https://react.dev/">
-          <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" height="40"/><br>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <!-- espacio libre para futuro (JUnit, Jest, etc.) -->
-      </td>
-      <td align="center" width="120">
-      </td>
-      <td align="center" width="120">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
-
-<table align="center">
-  <thead>
-    <tr>
       <th colspan="5">🧪 Specialized Domains & Concepts</th>
     </tr>
   </thead>
@@ -690,6 +678,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
