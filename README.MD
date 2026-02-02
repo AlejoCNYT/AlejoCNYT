@@ -254,7 +254,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 <table align="center">
-  <thead>
+  <tbody>
     <tr>
       <th colspan="5">🖥️ Operating Systems</th>
     </tr>
@@ -300,263 +300,156 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 <table align="center">
-  <tbody>
-    <tr>
-      <th align="center" colspan="5">🖥️ Operating Systems</th>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white" alt="Kali Linux" width="65" height="65"/><br> 
-      </td>
-      <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" width="65" height="65"/><br>
-      </td>
-      <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Edubuntu-E95420?logo=ubuntu&logoColor=white" alt="Edubuntu" width="65" height="65"/><br>
-      </td>
-      <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Scientific_Linux-2B3A42?logo=redhat&logoColor=white" alt="Scientific Linux" width="65" height="65"/><br> 
-      </td>
-      <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Slackware-000000?logo=slackware&logoColor=white" alt="Slackware Linux" width="65" height="65"/><br>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-FreeBSD-AB2B28?logo=freebsd&logoColor=white" alt="FreeBSD" width="65" height="65"/><br>
-      </td>
-      <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-OpenBSD-F7D708?logo=openbsd&logoColor=black" alt="OpenBSD" width="65" height="65"/><br>
-      </td>
-      <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Windows_Server_GUI-0078D6?logo=windows&logoColor=white" alt="Windows Server GUI" width="65" height="65"/><br>  
-      </td>
-      <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Windows_Server_Core-0078D6?logo=windows&logoColor=white" alt="Windows Server Core" width="65" height="65"/><br>  
-      </td>
-      <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Solaris-FFCC00?logo=sun&logoColor=black" alt="Solaris" width="65" height="65"/><br>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
----
-
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="6">🛠️ Tools & Platforms</th>
-    </tr>
-  </thead>
   <tbody>
 
-    <!-- ROW 1 -->
     <tr>
-      <td align="center" width="120">
-        <a href="https://gradle.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="65" height="65" alt="Gradle"/>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://yaml.org/">
-          <img src="https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white" width="65" height="65" alt="YAML"/>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://cucumber.io/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="65" height="65" alt="Cucumber"/>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://www.selenium.dev/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="65" height="65" alt="Selenium"/>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://cucumber.io/docs/gherkin/">
-          <img src="https://img.shields.io/badge/Gherkin-23D96C?logo=cucumber&logoColor=white" width="65" height="65" alt="Gherkin"/>
-        </a>
-      </td>
-      <td align="center" width="120">
-        <a href="https://react.dev/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React"/>
-        </a>
-      </td>
+
+      <th align="center" colspan="7">📚 Frameworks & Libraries</th>
+
     </tr>
 
-    <!-- ROW 2 -->
     <tr>
-      <td align="center">
-        <a href="https://git-scm.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="Git"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://github.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="65" height="65" alt="GitHub"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://www.postgresql.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://www.mongodb.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65" height="65" alt="MongoDB"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://mariadb.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="65" height="65" alt="MariaDB"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="65" height="65"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://www.docker.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65"/><br>
+
       </td>
+
+      <td align="center" width="96">
+
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65"/><br>
+
+      </td>
+
     </tr>
 
-    <!-- ROW 3 -->
     <tr>
-      <td align="center">
-        <a href="https://www.virtualbox.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="65" height="65" alt="VirtualBox"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="65" height="65"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://www.postman.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="65" height="65" alt="Postman"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://vitejs.dev/logo.svg" alt="Vite" width="65" height="65"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://azure.microsoft.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="65" height="65" alt="Azure"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="65" height="65"/><br> 
+
       </td>
-      <td align="center">
-        <a href="https://aws.amazon.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="65" height="65" alt="AWS"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="65" height="65"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://cloud.google.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="65" height="65" alt="Google Cloud"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://img.shields.io/badge/Redshift-FF0000?logo=amazon-redshift&logoColor=white" alt="Redshift" height="40"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://www.linux.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="65" height="65" alt="Linux"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" height="40"/><br>
+
       </td>
+
+      <td align="center" width="96">
+
+        <img src="https://img.shields.io/badge/XML-FF6600?logo=w3c&logoColor=white" alt="XML" height="40"/><br>
+
+      </td>
+
     </tr>
 
-    <!-- ROW 4 -->
     <tr>
-      <td align="center">
-        <a href="https://www.microsoft.com/windows">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="65" height="65" alt="Windows"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.apple.com/macos/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="65" height="65" alt="macOS"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.android.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="65" height="65" alt="Android"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.latex-project.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="65" height="65" alt="LaTeX"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.overleaf.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/overleaf/overleaf-original.svg" width="65" height="65" alt="Overleaf"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.oracle.com/database/sqldeveloper/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="65" height="65" alt="Oracle SQL Developer"/>
-        </a>
-      </td>
-    </tr>
 
-    <!-- ROW 5 -->
-    <tr>
-      <td align="center">
-        <a href="https://www.microsoft.com/microsoft-365">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/word/word-original.svg" width="65" height="65" alt="Office 365"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://astah.net/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uml/uml-original.svg" width="65" height="65" alt="Astah UML"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.markdownguide.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="65" height="65" alt="Markdown"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.cisco.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="65" height="65" alt="Cisco"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.netacad.com/courses/packet-tracer">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="65" height="65" alt="Packet Tracer"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://powerbi.microsoft.com/">
-          <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" width="65" height="65" alt="Power BI"/>
-        </a>
-      </td>
-    </tr>
+      <td align="center" width="96">
 
-    <!-- ROW 6 -->
-    <tr>
-      <td align="center">
-        <a href="https://jupyter.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65" height="65" alt="Jupyter Notebook"/>
-        </a>
+        <img src="https://img.shields.io/badge/KNIME-D9E30B?logo=knime&logoColor=black" alt="KNIME" height="40"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://posit.co/download/rstudio-desktop/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="65" height="65" alt="RStudio"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65" height="65"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://www.bluej.org/">
-          <img src="https://img.shields.io/badge/BlueJ-002147?logo=java&logoColor=white" width="65" height="65" alt="BlueJ"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="65" height="65"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://www.jetbrains.com/idea/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="65" height="65" alt="IntelliJ IDEA"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-bigquery&logoColor=white" alt="BigQuery" height="40"/><br>
+
       </td>
-      <td align="center">
-        <a href="https://www.jetbrains.com/pycharm/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="65" height="65" alt="PyCharm"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white" alt="Apache Kafka" height="40"/><br> 
+
       </td>
-      <td align="center">
-        <a href="https://code.visualstudio.com/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="65" height="65" alt="VSCode"/>
-        </a>
+
+      <td align="center" width="96">
+
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="65" height="65"/><br>
+
       </td>
+
+      <td align="center" width="96">
+
+        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="65" height="65"/><br>
+
+      </td>
+
     </tr>
 
   </tbody>
-</table>
+
+</table> 
 
 ---
 
@@ -662,6 +555,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
