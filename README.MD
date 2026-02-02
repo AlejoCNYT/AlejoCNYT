@@ -449,7 +449,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 * **Econexion eco-app** - Full-stack marketplace using Spring Boot, React/React Native & WebSocket — JWT authentication, SQL/NoSQL support, and real-time chat & orders.
 
-  [Full Repository](https://github.com/Eco-nexion/econexion-app)
+  [Full Repository](https://github.com/Eco-nexion)
 
 * **Bomberman Web Multiplayer Game** – Fullstack game using Spring Boot, React, WebSocket & STOMP
 
@@ -484,6 +484,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
