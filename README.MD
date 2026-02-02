@@ -222,33 +222,35 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 <table align="center">
-  <tbody>
-    <tr>
-      <th align="center" colspan="4">🛠️ Testing & Automation</th>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://gradle.org/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="65" height="65"/>
-        </a><br>
-      </td>
-      <td align="center" width="96">
-        <a href="https://yaml.org/">
-          <img src="https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white" alt="YAML" width="65" height="65"/>
-        </a><br>
-      </td>
-      <td align="center" width="96">
-        <a href="https://cucumber.io/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="65" height="65"/>
-        </a><br>
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.selenium.dev/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65"/>
-        </a><br>
-      </td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th colspan="4">🛠️ Testing & Automation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" width="96">
+<a href="https://gradle.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="65" height="65"/>
+</a><br>
+</td>
+<td align="center" width="96">
+<a href="https://yaml.org/">
+<img src="https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white" alt="YAML" width="65" height="65"/>
+</a><br>
+</td>
+<td align="center" width="96">
+<a href="https://cucumber.io/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="65" height="65"/>
+</a><br>
+</td>
+<td align="center" width="96">
+<a href="https://www.selenium.dev/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65"/>
+</a><br>
+</td>
+</tr>
+</tbody>
 </table>
 
 ---
@@ -482,6 +484,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
