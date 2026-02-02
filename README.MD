@@ -300,6 +300,50 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 <table align="center">
+  <tbody>
+    <tr>
+      <th align="center" colspan="5">🖥️ Operating Systems</th>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white" alt="Kali Linux" width="65" height="65"/><br> 
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" width="65" height="65"/><br>
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/-Edubuntu-E95420?logo=ubuntu&logoColor=white" alt="Edubuntu" width="65" height="65"/><br>
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/-Scientific_Linux-2B3A42?logo=redhat&logoColor=white" alt="Scientific Linux" width="65" height="65"/><br> 
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/-Slackware-000000?logo=slackware&logoColor=white" alt="Slackware Linux" width="65" height="65"/><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/-FreeBSD-AB2B28?logo=freebsd&logoColor=white" alt="FreeBSD" width="65" height="65"/><br>
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/-OpenBSD-F7D708?logo=openbsd&logoColor=black" alt="OpenBSD" width="65" height="65"/><br>
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/-Windows_Server_GUI-0078D6?logo=windows&logoColor=white" alt="Windows Server GUI" width="65" height="65"/><br>  
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/-Windows_Server_Core-0078D6?logo=windows&logoColor=white" alt="Windows Server Core" width="65" height="65"/><br>  
+      </td>
+      <td align="center" width="120">
+        <img src="https://img.shields.io/badge/-Solaris-FFCC00?logo=sun&logoColor=black" alt="Solaris" width="65" height="65"/><br>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+<table align="center">
   <thead>
     <tr>
       <th colspan="6">🛠️ Tools & Platforms</th>
@@ -618,6 +662,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
