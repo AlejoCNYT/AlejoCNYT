@@ -148,7 +148,6 @@ I'm currently open to internships, research collaborations, and open-source cont
 > 🧹 “Behind every great system, there’s a human who never stopped learning.”
 
 ---
-
 <table align="center">
   <tr>
     <th colspan="6">💻 Programming Languages</th>
@@ -256,7 +255,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 <table align="center">
-  <tbody>
+  <thead>
     <tr>
       <th colspan="5">🖥️ Operating Systems</th>
     </tr>
@@ -304,7 +303,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 <table align="center">
 <thead>
 <tr>
-<th colspan="7">📚 Frameworks & Libraries</th>
+<th colspan="7">📚 Frameworks, Libraries & Data Tools</th>
 </tr>
 </thead>
 <tbody>
@@ -377,6 +376,11 @@ I'm currently open to internships, research collaborations, and open-source cont
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="65" height="65"/><br>
 </td>
 </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" alt="Databricks" height="40"/><br>
+</td>
+<td colspan="6"></td> </tr>
 </tbody>
 </table>
 
@@ -411,7 +415,14 @@ I'm currently open to internships, research collaborations, and open-source cont
         <a href="https://lean.org"><img src="https://img.shields.io/badge/Lean-003366?logo=leanpub&logoColor=white" alt="Lean" height="40"/><br></a>
       </td>
       <td align="center" width="120">
-        <a href="https://www.strategyzer.com/canvas/business-model-canvas"><img src="https://img.shields.io/badge/Business_Model_Canvas-1C1C1C?logo=visualstudio&logoColor=white" alt="Business Model Canvas" height="40"/><br></a>
+        <a href="https://www.strategyzer.com/canvas/business-model-canvas"><img src="https://img.shields.io/badge/Business_Model_Canvas-1C1C1C?logo=visualstudio&logoColor=white" alt="Business Model Canvas" height="40"/></a><br>
+      </td>
+      <td align="center" width="120">
+        <a href="https://www.autodesk.com/products/autocad/overview"><img src="https://img.shields.io/badge/AutoCAD-0696D7?logo=autodesk&logoColor=white" alt="AutoCAD" height="40"/></a><br>
+      </td>
+      <td colspan="2"></td> </tr>
+  </tbody>
+</table>><br></a>
       </td>
       <td align="center" width="120">
         <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white" alt="ChatGPT" height="40"/><br></a>
@@ -484,6 +495,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 > “Engineering solutions with code, ethics and impact.”
+
 
 
 
