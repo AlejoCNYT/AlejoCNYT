@@ -266,36 +266,36 @@ I'm currently open to internships, research collaborations, and open-source cont
   <tbody>
     <tr>
       <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white" alt="Kali Linux" width="65" height="65"/><br> 
+        <img src="https://cdn.simpleicons.org/kali/557C94" alt="Kali Linux" width="65" height="65"/>
       </td>
       <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu" width="65" height="65"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="65" height="65"/>
       </td>
       <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Edubuntu-E95420?logo=ubuntu&logoColor=white" alt="Edubuntu" width="65" height="65"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Edubuntu" width="65" height="65"/>
       </td>
       <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Scientific_Linux-2B3A42?logo=redhat&logoColor=white" alt="Scientific Linux" width="65" height="65"/><br> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" alt="Scientific Linux" width="65" height="65"/>
       </td>
       <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Slackware-000000?logo=slackware&logoColor=white" alt="Slackware Linux" width="65" height="65"/><br>
+        <img src="https://cdn.simpleicons.org/slackware/000000" alt="Slackware Linux" width="65" height="65"/>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-FreeBSD-AB2B28?logo=freebsd&logoColor=white" alt="FreeBSD" width="65" height="65"/><br>
+        <img src="https://cdn.simpleicons.org/freebsd/AB2B28" alt="FreeBSD" width="65" height="65"/>
       </td>
       <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-OpenBSD-F7D708?logo=openbsd&logoColor=black" alt="OpenBSD" width="65" height="65"/><br>
+        <img src="https://cdn.simpleicons.org/openbsd/F7D708" alt="OpenBSD" width="65" height="65"/>
       </td>
       <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Windows_Server_GUI-0078D6?logo=windows&logoColor=white" alt="Windows Server GUI" width="65" height="65"/><br>  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows Server GUI" width="65" height="65"/>
       </td>
       <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Windows_Server_Core-0078D6?logo=windows&logoColor=white" alt="Windows Server Core" width="65" height="65"/><br>  
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows Server Core" width="65" height="65"/>
       </td>
       <td align="center" width="120">
-        <img src="https://img.shields.io/badge/-Solaris-FFCC00?logo=sun&logoColor=black" alt="Solaris" width="65" height="65"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Solaris" width="65" height="65"/>
       </td>
     </tr>
   </tbody>
