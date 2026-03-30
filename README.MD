@@ -445,7 +445,7 @@ I'm currently open to internships, research collaborations, and open-source cont
         </td>
         <td align="center" width="120">
           <a href="https://qiskit.org" target="_blank">
-            <img src="https://cdn.simpleicons.org/ibm/000000" alt="Qiskit" width="65" height="65"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qiskit/qiskit-original.svg" alt="Qiskit" width="65" height="65"/>
           </a>
         </td>
         <td align="center" width="120">
