@@ -234,26 +234,22 @@ I'm currently open to internships, research collaborations, and open-source cont
   <tr>
     <td align="center" width="120">
       <a href="https://gradle.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain.svg" alt="Gradle" width="65" height="65"/><br>
-        Gradle
+        <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" alt="Gradle" width="65" height="65"/>
       </a>
     </td>
     <td align="center" width="120">
       <a href="https://yaml.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="65" height="65"/><br>
-        YAML
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="65" height="65"/>
       </a>
     </td>
     <td align="center" width="120">
       <a href="https://cucumber.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="65" height="65"/><br>
-        Cucumber
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="65" height="65"/>
       </a>
     </td>
     <td align="center" width="120">
       <a href="https://www.selenium.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65"/><br>
-        Selenium
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65"/>
       </a>
     </td>
   </tr>
