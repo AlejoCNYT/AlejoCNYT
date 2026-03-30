@@ -420,21 +420,20 @@ I'm currently open to internships, research collaborations, and open-source cont
       <td align="center" width="120">
         <a href="https://www.autodesk.com/products/autocad/overview"><img src="https://img.shields.io/badge/AutoCAD-0696D7?logo=autodesk&logoColor=white" alt="AutoCAD" height="40"/></a><br>
       </td>
-      <td colspan="2"></td> </tr>
-  </tbody>
-</table>><br></a>
+      <td align="center" width="120">
+        <a href="https://www.cgerisk.com/products/bowtiexp/"><img src="https://img.shields.io/badge/BowtieXP-FF6600?logoColor=white" alt="BowtieXP" height="40"/></a><br>
       </td>
       <td align="center" width="120">
         <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white" alt="ChatGPT" height="40"/><br></a>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="120">
         <a href="https://www.anthropic.com/index/claude"><img src="https://img.shields.io/badge/Claude_AI-4B0082?logo=anthropic&logoColor=white" alt="Claude AI" height="40"/><br> </a>
       </td>
       <td align="center" width="120">
         <a href="https://deepmind.google/technologies/gemini"><img src="https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white" alt="Gemini AI" height="40"/><br> </a>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="120">
         <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DeepSeek_AI-1A1A1A?logo=github&logoColor=white" alt="DeepSeek AI" height="40"/><br></a>
       </td>
@@ -444,12 +443,15 @@ I'm currently open to internships, research collaborations, and open-source cont
       <td align="center" width="120">
         <a href="https://www.wolfram.com/mathematica/"><img src="https://img.shields.io/badge/Mathematica-DD1100?logo=wolfram&logoColor=white" alt="Mathematica" height="40"/><br></a>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="120">
         <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB" height="40"/><br></a>
       </td>
       <td align="center" width="120">
         <a href="https://www.gnu.org/software/octave/"><img src="https://img.shields.io/badge/GNU_Octave-0790C0?logo=gnu&logoColor=white" alt="GNU Octave" height="40"/><br></a>
       </td>
+      <td colspan="3"></td>
     </tr>
   </tbody>
 </table>
