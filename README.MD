@@ -488,8 +488,9 @@ I'm currently open to internships, research collaborations, and open-source cont
         </td>
         <td align="center" width="120">
           <a href="https://chat.openai.com" target="_blank">
-            <img src="https://cdn.simpleicons.org/openai/10A37F" alt="ChatGPT" width="65" height="65"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="65" height="65"/>
           </a>
+        </td>
         </td>
       </tr>
       <tr>
