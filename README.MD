@@ -430,7 +430,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
-  <table align="center">
+<table align="center">
     <thead>
       <tr>
         <th colspan="5">🧪 Specialized Domains & Concepts</th>
@@ -439,61 +439,95 @@ I'm currently open to internships, research collaborations, and open-source cont
     <tbody>
       <tr>
         <td align="center" width="120">
-          <a href="https://www.sympy.org"><img src="https://img.shields.io/badge/SymPy-3776AB?logo=python&logoColor=white" alt="SymPy" height="40"/><br></a>
+          <a href="https://www.sympy.org" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="SymPy" width="65" height="65"/>
+          </a>
         </td>
         <td align="center" width="120">
-          <a href="https://qiskit.org"><img src="https://img.shields.io/badge/Qiskit-000000?logo=ibm&logoColor=white" alt="Qiskit" height="40"/><br></a>
+          <a href="https://qiskit.org" target="_blank">
+            <img src="https://cdn.simpleicons.org/ibm/000000" alt="Qiskit" width="65" height="65"/>
+          </a>
         </td>
         <td align="center" width="120">
-          <a href="https://quantum-computing.ibm.com"><img src="https://img.shields.io/badge/IBM_Quantum-054ADA?logo=ibm&logoColor=white" alt="IBM Quantum" height="40"/><br> </a>
+          <a href="https://quantum-computing.ibm.com" target="_blank">
+            <img src="https://cdn.simpleicons.org/ibm/054ADA" alt="IBM Quantum" width="65" height="65"/>
+          </a>
         </td>
         <td align="center" width="120">
-          <a href="https://www.scrum.org"><img src="https://img.shields.io/badge/Scrum-6DB33F?logo=jira&logoColor=white" alt="Scrum" height="40"/><br></a>
+          <a href="https://www.scrum.org" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Scrum" width="65" height="65"/>
+          </a>
         </td>
         <td align="center" width="120">
-          <a href="https://kanbanize.com/kanban-resources/getting-started/what-is-kanban"><img src="https://img.shields.io/badge/Kanban-0052CC?logo=trello&logoColor=white" alt="Kanban" height="40"/><br></a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="120">
-          <a href="https://lean.org"><img src="https://img.shields.io/badge/Lean-003366?logo=leanpub&logoColor=white" alt="Lean" height="40"/><br></a>
-        </td>
-        <td align="center" width="120">
-          <a href="https://www.strategyzer.com/canvas/business-model-canvas"><img src="https://img.shields.io/badge/Business_Model_Canvas-1C1C1C?logo=visualstudio&logoColor=white" alt="Business Model Canvas" height="40"/></a><br>
-        </td>
-        <td align="center" width="120">
-          <a href="https://www.autodesk.com/products/autocad/overview"><img src="https://img.shields.io/badge/AutoCAD-0696D7?logo=autodesk&logoColor=white" alt="AutoCAD" height="40"/></a><br>
-        </td>
-        <td align="center" width="120">
-          <a href="https://www.cgerisk.com/products/bowtiexp/"><img src="https://img.shields.io/badge/BowtieXP-FF6600?logoColor=white" alt="BowtieXP" height="40"/></a><br>
-        </td>
-        <td align="center" width="120">
-          <a href="https://chat.openai.com"><img src="https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white" alt="ChatGPT" height="40"/><br></a>
+          <a href="https://kanbanize.com/kanban-resources/getting-started/what-is-kanban" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" alt="Kanban" width="65" height="65"/>
+          </a>
         </td>
       </tr>
       <tr>
         <td align="center" width="120">
-          <a href="https://www.anthropic.com/index/claude"><img src="https://img.shields.io/badge/Claude_AI-4B0082?logo=anthropic&logoColor=white" alt="Claude AI" height="40"/><br> </a>
+          <a href="https://lean.org" target="_blank">
+            <img src="https://cdn.simpleicons.org/leanpub/003366" alt="Lean" width="65" height="65"/>
+          </a>
         </td>
         <td align="center" width="120">
-          <a href="https://deepmind.google/technologies/gemini"><img src="https://img.shields.io/badge/Gemini_AI-4285F4?logo=google&logoColor=white" alt="Gemini AI" height="40"/><br> </a>
+          <a href="https://www.strategyzer.com/canvas/business-model-canvas" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Business Model Canvas" width="65" height="65"/>
+          </a>
         </td>
         <td align="center" width="120">
-          <a href="https://github.com/deepseek-ai"><img src="https://img.shields.io/badge/DeepSeek_AI-1A1A1A?logo=github&logoColor=white" alt="DeepSeek AI" height="40"/><br></a>
+          <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
+            <img src="https://cdn.simpleicons.org/autodesk/0696D7" alt="AutoCAD" width="65" height="65"/>
+          </a>
         </td>
         <td align="center" width="120">
-          <a href="https://x.ai"><img src="https://img.shields.io/badge/Grok_xAI-000000?logo=x&logoColor=white" alt="Grok xAI" height="40"/><br> </a>
+          <a href="https://www.cgerisk.com/products/bowtiexp/" target="_blank">
+            <img src="https://cdn.simpleicons.org/diagramsdotnet/FF6600" alt="BowtieXP" width="65" height="65"/>
+          </a>
         </td>
         <td align="center" width="120">
-          <a href="https://www.wolfram.com/mathematica/"><img src="https://img.shields.io/badge/Mathematica-DD1100?logo=wolfram&logoColor=white" alt="Mathematica" height="40"/><br></a>
+          <a href="https://chat.openai.com" target="_blank">
+            <img src="https://cdn.simpleicons.org/openai/10A37F" alt="ChatGPT" width="65" height="65"/>
+          </a>
         </td>
       </tr>
       <tr>
         <td align="center" width="120">
-          <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" alt="MATLAB" height="40"/><br></a>
+          <a href="https://www.anthropic.com/index/claude" target="_blank">
+            <img src="https://cdn.simpleicons.org/anthropic/4B0082" alt="Claude AI" width="65" height="65"/>
+          </a>
         </td>
         <td align="center" width="120">
-          <a href="https://www.gnu.org/software/octave/"><img src="https://img.shields.io/badge/GNU_Octave-0790C0?logo=gnu&logoColor=white" alt="GNU Octave" height="40"/><br></a>
+          <a href="https://deepmind.google/technologies/gemini" target="_blank">
+            <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini AI" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://github.com/deepseek-ai" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="DeepSeek AI" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://x.ai" target="_blank">
+            <img src="https://cdn.simpleicons.org/x/000000" alt="Grok xAI" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://www.wolfram.com/mathematica/" target="_blank">
+            <img src="https://cdn.simpleicons.org/wolframlanguage/DD1100" alt="Mathematica" width="65" height="65"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="120">
+          <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://www.gnu.org/software/octave/" target="_blank">
+            <img src="https://cdn.simpleicons.org/gnu/0790C0" alt="GNU Octave" width="65" height="65"/>
+          </a>
         </td>
         <td colspan="3"></td>
       </tr>
