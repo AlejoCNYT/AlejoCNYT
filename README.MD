@@ -494,7 +494,7 @@ I'm currently open to internships, research collaborations, and open-source cont
       <tr>
         <td align="center" width="120">
           <a href="https://www.anthropic.com/index/claude" target="_blank">
-            <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude AI" width="65" height="65"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Anthropic_logo.svg" alt="Claude AI" width="65" height="65"/>
           </a>
         </td>
         <td align="center" width="120">
@@ -509,7 +509,7 @@ I'm currently open to internships, research collaborations, and open-source cont
         </td>
         <td align="center" width="120">
           <a href="https://kimi.moonshot.cn/" target="_blank">
-            <img src="https://cdn.simpleicons.org/kimi/7149EB" alt="Kimi AI" width="65" height="65"/>
+            <img src="https://cdn.simpleicons.org/moonshot/7149EB" alt="Kimi AI" width="65" height="65"/>
           </a>
         </td>
         <td align="center" width="120">
@@ -537,7 +537,7 @@ I'm currently open to internships, research collaborations, and open-source cont
         <td colspan="2"></td>
       </tr>
     </tbody>
-  </table>
+</table>
 
 ---
 
