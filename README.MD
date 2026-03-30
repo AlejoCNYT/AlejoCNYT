@@ -228,35 +228,35 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 <table align="center">
-<thead>
-<tr>
-<th colspan="4">🛠️ Testing & Automation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" width="96">
-<a href="https://gradle.org/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="65" height="65"/>
-</a><br>
-</td>
-<td align="center" width="96">
-<a href="https://yaml.org/">
-<img src="https://img.shields.io/badge/YAML-000000?logo=yaml&logoColor=white" alt="YAML" width="65" height="65"/>
-</a><br>
-</td>
-<td align="center" width="96">
-<a href="https://cucumber.io/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="65" height="65"/>
-</a><br>
-</td>
-<td align="center" width="96">
-<a href="https://www.selenium.dev/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65"/>
-</a><br>
-</td>
-</tr>
-</tbody>
+  <tr>
+    <th colspan="4">🛠️ Testing & Automation</th>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://gradle.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="65" height="65"/><br>
+        Gradle
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://yaml.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="65" height="65"/><br>
+        YAML
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://cucumber.io/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="65" height="65"/><br>
+        Cucumber
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.selenium.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65"/><br>
+        Selenium
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
