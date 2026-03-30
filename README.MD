@@ -304,88 +304,124 @@ I'm currently open to internships, research collaborations, and open-source cont
 ---
 
 <table align="center">
-<thead>
-<tr>
-<th colspan="7">📚 Frameworks, Libraries & Data Tools</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65"/><br>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://vitejs.dev/logo.svg" alt="Vite" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.svg" alt="FastAPI" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/Redshift-FF0000?logo=amazon-redshift&logoColor=white" alt="Redshift" height="40"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" height="40"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/XML-FF6600?logo=w3c&logoColor=white" alt="XML" height="40"/><br>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/KNIME-D9E30B?logo=knime&logoColor=black" alt="KNIME" height="40"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-bigquery&logoColor=white" alt="BigQuery" height="40"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apache-kafka&logoColor=white" alt="Apache Kafka" height="40"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" alt="Scala" width="65" height="65"/><br>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="65" height="65"/><br>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" alt="Databricks" height="40"/><br>
-</td>
-<td colspan="6"></td> </tr>
-</tbody>
-</table>
+  <tr>
+    <th colspan="7">📚 Frameworks, Libraries & Data Tools</th>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://react.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.tensorflow.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://numpy.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://matplotlib.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://vitejs.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://spark.apache.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://aws.amazon.com/redshift/" target="_blank">
+        <img src="https://cdn.simpleicons.org/amazonredshift/8C4FFF" alt="Redshift" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://laravel.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.w3.org/XML/" target="_blank">
+        <img src="https://cdn.simpleicons.org/w3c/005A9C" alt="XML" width="65" height="65"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.knime.com/" target="_blank">
+        <img src="https://cdn.simpleicons.org/knime/F5EA00" alt="KNIME" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://kotlinlang.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://jquery.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" alt="jQuery" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://cloud.google.com/bigquery" target="_blank">
+        <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" alt="BigQuery" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://kafka.apache.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.scala-lang.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" alt="Scala" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="65" height="65"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.databricks.com/" target="_blank">
+        <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="65"
 
 ---
 
