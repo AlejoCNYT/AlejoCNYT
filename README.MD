@@ -266,7 +266,7 @@ I'm currently open to internships, research collaborations, and open-source cont
   <tbody>
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/kali/557C94" alt="Kali Linux" width="65" height="65"/>
+        <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="65" height="65"/>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="65" height="65"/>
@@ -278,15 +278,15 @@ I'm currently open to internships, research collaborations, and open-source cont
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" alt="Scientific Linux" width="65" height="65"/>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/slackware/000000" alt="Slackware Linux" width="65" height="65"/>
+        <img src="https://cdn.simpleicons.org/slackware" alt="Slackware Linux" width="65" height="65"/>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/freebsd/AB2B28" alt="FreeBSD" width="65" height="65"/>
+        <img src="https://cdn.simpleicons.org/freebsd" alt="FreeBSD" width="65" height="65"/>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/openbsd/F7D708" alt="OpenBSD" width="65" height="65"/>
+        <img src="https://cdn.simpleicons.org/openbsd" alt="OpenBSD" width="65" height="65"/>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows Server GUI" width="65" height="65"/>
