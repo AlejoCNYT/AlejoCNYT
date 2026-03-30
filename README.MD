@@ -234,7 +234,7 @@ I'm currently open to internships, research collaborations, and open-source cont
   <tr>
     <td align="center" width="120">
       <a href="https://gradle.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" alt="Gradle" width="65" height="65"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain.svg" alt="Gradle" width="65" height="65"/><br>
         Gradle
       </a>
     </td>
@@ -246,13 +246,13 @@ I'm currently open to internships, research collaborations, and open-source cont
     </td>
     <td align="center" width="120">
       <a href="https://cucumber.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="65" height="65"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="65" height="65"/><br>
         Cucumber
       </a>
     </td>
     <td align="center" width="120">
       <a href="https://www.selenium.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65"/><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="65" height="65"/><br>
         Selenium
       </a>
     </td>
