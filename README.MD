@@ -216,6 +216,13 @@ I'm currently open to internships, research collaborations, and open-source cont
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://learn.microsoft.com/es-es/dotnet/csharp/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="65" height="65"/><br>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
