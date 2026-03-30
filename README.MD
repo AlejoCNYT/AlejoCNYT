@@ -450,7 +450,7 @@ I'm currently open to internships, research collaborations, and open-source cont
         </td>
         <td align="center" width="120">
           <a href="https://quantum-computing.ibm.com" target="_blank">
-            <img src="https://cdn.simpleicons.org/ibm/054ADA" alt="IBM Quantum" width="65" height="65"/>
+            <img src="https://cdn.simpleicons.org/ibm" alt="IBM Quantum" width="65" height="65"/>
           </a>
         </td>
         <td align="center" width="120">
