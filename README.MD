@@ -453,7 +453,6 @@ I'm currently open to internships, research collaborations, and open-source cont
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Quantum" width="65" height="65"/>
           </a>
         </td>
-        </td>
         <td align="center" width="120">
           <a href="https://www.scrum.org" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" alt="Scrum" width="65" height="65"/>
@@ -491,32 +490,31 @@ I'm currently open to internships, research collaborations, and open-source cont
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="65" height="65"/>
           </a>
         </td>
-        </td>
       </tr>
       <tr>
         <td align="center" width="120">
           <a href="https://www.anthropic.com/index/claude" target="_blank">
-            <img src="https://cdn.simpleicons.org/anthropic/4B0082" alt="Claude AI" width="65" height="65"/>
+            <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Claude AI" width="65" height="65"/>
           </a>
         </td>
         <td align="center" width="120">
-          <a href="https://deepmind.google/technologies/gemini" target="_blank">
+          <a href="https://gemini.google.com" target="_blank">
             <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini AI" width="65" height="65"/>
           </a>
         </td>
         <td align="center" width="120">
-          <a href="https://github.com/deepseek-ai" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="DeepSeek AI" width="65" height="65"/>
+          <a href="https://www.deepseek.com/" target="_blank">
+            <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" alt="DeepSeek AI" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://kimi.moonshot.cn/" target="_blank">
+            <img src="https://cdn.simpleicons.org/kimi/7149EB" alt="Kimi AI" width="65" height="65"/>
           </a>
         </td>
         <td align="center" width="120">
           <a href="https://x.ai" target="_blank">
             <img src="https://cdn.simpleicons.org/x/000000" alt="Grok xAI" width="65" height="65"/>
-          </a>
-        </td>
-        <td align="center" width="120">
-          <a href="https://www.wolfram.com/mathematica/" target="_blank">
-            <img src="https://cdn.simpleicons.org/wolframlanguage/DD1100" alt="Mathematica" width="65" height="65"/>
           </a>
         </td>
       </tr>
@@ -531,7 +529,12 @@ I'm currently open to internships, research collaborations, and open-source cont
             <img src="https://cdn.simpleicons.org/gnu/0790C0" alt="GNU Octave" width="65" height="65"/>
           </a>
         </td>
-        <td colspan="3"></td>
+        <td align="center" width="120">
+          <a href="https://www.wolfram.com/mathematica/" target="_blank">
+            <img src="https://cdn.simpleicons.org/wolframlanguage/DD1100" alt="Mathematica" width="65" height="65"/>
+          </a>
+        </td>
+        <td colspan="2"></td>
       </tr>
     </tbody>
   </table>
