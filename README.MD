@@ -421,7 +421,12 @@ I'm currently open to internships, research collaborations, and open-source cont
   <tr>
     <td align="center" width="120">
       <a href="https://www.databricks.com/" target="_blank">
-        <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="65"
+        <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="65" height="65"/>
+      </a>
+    </td>
+    <td colspan="6"></td>
+  </tr>
+</table>
 
 ---
 
