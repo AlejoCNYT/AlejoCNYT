@@ -494,7 +494,7 @@ I'm currently open to internships, research collaborations, and open-source cont
       <tr>
         <td align="center" width="120">
           <a href="https://www.anthropic.com/index/claude" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Anthropic_logo.svg" alt="Claude AI" width="65" height="65"/>
+            <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" alt="Claude AI" width="65" height="65"/>
           </a>
         </td>
         <td align="center" width="120">
@@ -504,12 +504,12 @@ I'm currently open to internships, research collaborations, and open-source cont
         </td>
         <td align="center" width="120">
           <a href="https://www.deepseek.com/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/deepseek.svg" alt="DeepSeek AI" width="65" height="65"/>
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/deepseek.svg" alt="DeepSeek AI" width="65" height="65" style="filter: brightness(0) saturate(100%) invert(42%) sepia(85%) saturate(1210%) hue-rotate(195deg) brightness(101%) contrast(101%);"/>
           </a>
         </td>
         <td align="center" width="120">
           <a href="https://kimi.moonshot.cn/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kimi.svg" alt="Kimi AI" width="65" height="65"/>
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/kimi.svg" alt="Kimi AI" width="65" height="65" style="filter: brightness(0) saturate(100%) invert(28%) sepia(89%) saturate(2311%) hue-rotate(253deg) brightness(96%) contrast(97%);"/>
           </a>
         </td>
         </td>
