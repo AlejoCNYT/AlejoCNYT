@@ -272,7 +272,7 @@ I'm currently open to internships, research collaborations, and open-source cont
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="65" height="65"/>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Edubuntu" width="65" height="65"/>
+        <img src="https://cdn.simpleicons.org/edubuntu" alt="Edubuntu" width="65" height="65"/>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" alt="Scientific Linux" width="65" height="65"/>
