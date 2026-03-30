@@ -377,7 +377,7 @@ I'm currently open to internships, research collaborations, and open-source cont
     </td>
     <td align="center" width="120">
       <a href="https://www.w3.org/XML/" target="_blank">
-        <img src="https://cdn.simpleicons.org/w3c/005A9C" alt="XML" width="65" height="65"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" alt="XML" width="65" height="65"/>
       </a>
     </td>
   </tr>
