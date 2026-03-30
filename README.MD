@@ -366,8 +366,8 @@ I'm currently open to internships, research collaborations, and open-source cont
       </a>
     </td>
     <td align="center" width="120">
-      <a href="https://www.redhat.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" alt="Red Hat" width="65" height="65"/>
+      <a href="https://aws.amazon.com/redshift/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS Redshift" width="65" height="65"/>
       </a>
     </td>
     <td align="center" width="120">
