@@ -367,24 +367,24 @@ I'm currently open to internships, research collaborations, and open-source cont
     </td>
     <td align="center" width="120">
       <a href="https://aws.amazon.com/redshift/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" alt="Redshift" width="65" height="65"/>
+        <img src="https://img.shields.io/badge/Redshift-FF0000?logo=amazon-redshift&logoColor=white" alt="Redshift" height="40"/>
       </a>
     </td>
     <td align="center" width="120">
       <a href="https://laravel.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="65" height="65"/>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white" alt="Laravel" height="40"/>
       </a>
     </td>
     <td align="center" width="120">
       <a href="https://www.w3.org/XML/" target="_blank">
-        <img src="https://cdn.vectorlogo.zone/logos/w3_xml/w3_xml-icon.svg" alt="XML" width="65" height="65"/>
+        <img src="https://img.shields.io/badge/XML-FF6600?logo=w3c&logoColor=white" alt="XML" height="40"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
       <a href="https://www.knime.com/" target="_blank">
-        <img src="https://cdn.vectorlogo.zone/logos/knime/knime-icon.svg" alt="KNIME" width="65" height="65"/>
+        <img src="https://img.shields.io/badge/KNIME-D9E30B?logo=knime&logoColor=black" alt="KNIME" height="40"/>
       </a>
     </td>
     <td align="center" width="120">
@@ -399,7 +399,7 @@ I'm currently open to internships, research collaborations, and open-source cont
     </td>
     <td align="center" width="120">
       <a href="https://cloud.google.com/bigquery" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="65" height="65"/>
+        <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-bigquery&logoColor=white" alt="BigQuery" height="40"/>
       </a>
     </td>
     <td align="center" width="120">
@@ -421,7 +421,7 @@ I'm currently open to internships, research collaborations, and open-source cont
   <tr>
     <td align="center" width="120">
       <a href="https://www.databricks.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="65" height="65"/>
+        <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" alt="Databricks" height="40"/>
       </a>
     </td>
     <td colspan="6"></td>
