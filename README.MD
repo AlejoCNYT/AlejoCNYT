@@ -367,7 +367,7 @@ I'm currently open to internships, research collaborations, and open-source cont
     </td>
     <td align="center" width="120">
       <a href="https://aws.amazon.com/redshift/" target="_blank">
-        <img src="https://cdn.simpleicons.org/amazonredshift/8C4FFF" alt="Redshift" width="65" height="65"/>
+        <img src="https://www.vectorlogo.zone/logos/amazon_redshift/amazon_redshift-icon.svg" alt="Redshift" width="65" height="65"/>
       </a>
     </td>
     <td align="center" width="120">
@@ -377,14 +377,14 @@ I'm currently open to internships, research collaborations, and open-source cont
     </td>
     <td align="center" width="120">
       <a href="https://www.w3.org/XML/" target="_blank">
-        <img src="https://cdn.simpleicons.org/w3c/005A9C" alt="XML" width="65" height="65"/>
+        <img src="https://cdn.vectorlogo.zone/logos/w3_xml/w3_xml-icon.svg" alt="XML" width="65" height="65"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
       <a href="https://www.knime.com/" target="_blank">
-        <img src="https://cdn.simpleicons.org/knime/F5EA00" alt="KNIME" width="65" height="65"/>
+        <img src="https://cdn.vectorlogo.zone/logos/knime/knime-icon.svg" alt="KNIME" width="65" height="65"/>
       </a>
     </td>
     <td align="center" width="120">
@@ -399,7 +399,7 @@ I'm currently open to internships, research collaborations, and open-source cont
     </td>
     <td align="center" width="120">
       <a href="https://cloud.google.com/bigquery" target="_blank">
-        <img src="https://cdn.simpleicons.org/googlebigquery/669DF6" alt="BigQuery" width="65" height="65"/>
+        <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="65" height="65"/>
       </a>
     </td>
     <td align="center" width="120">
@@ -421,7 +421,7 @@ I'm currently open to internships, research collaborations, and open-source cont
   <tr>
     <td align="center" width="120">
       <a href="https://www.databricks.com/" target="_blank">
-        <img src="https://cdn.simpleicons.org/databricks/FF3621" alt="Databricks" width="65" height="65"/>
+        <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="65" height="65"/>
       </a>
     </td>
     <td colspan="6"></td>
