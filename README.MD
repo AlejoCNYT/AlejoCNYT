@@ -292,7 +292,7 @@ I'm currently open to internships, research collaborations, and open-source cont
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows Server GUI" width="65" height="65"/>
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.simpleicons.org/windowsterminal" alt="Windows Server Core" width="65" height="65"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="Windows Server Core" width="65" height="65"/>
       </td>
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Solaris" width="65" height="65"/>
