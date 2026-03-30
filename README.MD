@@ -504,13 +504,14 @@ I'm currently open to internships, research collaborations, and open-source cont
         </td>
         <td align="center" width="120">
           <a href="https://www.deepseek.com/" target="_blank">
-            <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" alt="DeepSeek AI" width="65" height="65"/>
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/deepseek.svg" alt="DeepSeek AI" width="65" height="65"/>
           </a>
         </td>
         <td align="center" width="120">
           <a href="https://kimi.moonshot.cn/" target="_blank">
-            <img src="https://cdn.simpleicons.org/moonshot/7149EB" alt="Kimi AI" width="65" height="65"/>
+            <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kimi.svg" alt="Kimi AI" width="65" height="65"/>
           </a>
+        </td>
         </td>
         <td align="center" width="120">
           <a href="https://x.ai" target="_blank">
