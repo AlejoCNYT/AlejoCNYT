@@ -561,18 +561,41 @@ I'm currently open to internships, research collaborations, and open-source cont
 
   [Backend Repository](https://github.com/Santiago-Cordoba/BombermanARSW-Back) | [Frontend Repository](https://github.com/Santiago-Cordoba/BombermanARSW-Front/tree/develop)
 
-* **Forensics Tools & Scripts** – Experiments in reverse engineering & forensic automation
+* **Cybersecurity, IoT & Networking Labs** – Platforms for practice, simulation, and skill development
 
-<a href="https://tryhackme.com">
+<a href="https://tryhackme.com" target="_blank">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=white" title="TryHackMe" height="30"/>
 </a>
-
-<a href="https://www.hackthebox.com/">
+<a href="https://www.hackthebox.com/" target="_blank">
   <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?logo=hackthebox&logoColor=black" title="Hack The Box" height="30"/>
 </a>
-
-<a href="https://www.root-me.org/">
+<a href="https://www.root-me.org/" target="_blank">
   <img src="https://img.shields.io/badge/RootMe-7B16FF?logoColor=white" title="Root Me" height="30"/>
+</a>
+<a href="https://cyberdefenders.org/" target="_blank">
+  <img src="https://img.shields.io/badge/CyberDefenders-0A192C?logo=kalilinux&logoColor=white" title="CyberDefenders (Blue Team & Forensics)" height="30"/>
+</a>
+<a href="https://blueteamlabs.online/" target="_blank">
+  <img src="https://img.shields.io/badge/Blue_Team_Labs-1976D2?logo=wireshark&logoColor=white" title="Blue Team Labs Online" height="30"/>
+</a>
+<a href="https://overthewire.org/wargames/" target="_blank">
+  <img src="https://img.shields.io/badge/OverTheWire-000000?logo=gnubash&logoColor=white" title="OverTheWire (Linux/Networking Wargames)" height="30"/>
+</a>
+<br>
+<a href="https://picoctf.org/" target="_blank">
+  <img src="https://img.shields.io/badge/picoCTF-B22222?logo=linux&logoColor=white" title="picoCTF" height="30"/>
+</a>
+<a href="https://training.fortinet.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Fortinet_Training-C81922?logo=fortinet&logoColor=white" title="Fortinet Training Institute" height="30"/>
+</a>
+<a href="https://www.netacad.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Cisco_NetAcad-1BA0D7?logo=cisco&logoColor=white" title="Cisco Networking Academy" height="30"/>
+</a>
+<a href="https://wokwi.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Wokwi_Simulator-2A52BE?logo=espressif&logoColor=white" title="Wokwi (IoT & Microcontrollers)" height="30"/>
+</a>
+<a href="https://www.tinkercad.com/circuits" target="_blank">
+  <img src="https://img.shields.io/badge/Tinkercad_Circuits-0696D7?logo=autodesk&logoColor=white" title="Tinkercad Circuits (Arduino)" height="30"/>
 </a>
 
 * **Economic Data Analyzer** – Interactive dashboards using Python, Pandas & Matplotlib
