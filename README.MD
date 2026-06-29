@@ -145,7 +145,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
-> 🧹 “The ultimate algorithm is a good friend.”
+> “Engineering solutions with code, ethics and impact.”
 
 ---
 <table align="center">
@@ -612,8 +612,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
-> “Engineering solutions with code, ethics and impact.”
-
+> 🧹 “The ultimate algorithm is a good friend.”
 
 
 
