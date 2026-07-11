@@ -620,7 +620,6 @@ I'm currently open to internships, research collaborations, and open-source cont
         </td>
         <td colspan="3"></td>
       </tr>
-
     </tbody>
 </table>
 
