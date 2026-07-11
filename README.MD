@@ -434,11 +434,11 @@ I'm currently open to internships, research collaborations, and open-source cont
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="65" height="65"/>
       </a>
     </td>
-<td align="center" width="120">
-  <a href="https://scipy.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" alt="SciPy" width="65" height="65"/>
-  </a>
-</td>
+    <td align="center" width="120">
+      <a href="https://scipy.org/" target="_blank">
+        <img src="https://cdn.simpleicons.org/scipy/8CAAE6" alt="SciPy" width="65" height="65"/>
+      </a>
+    </td>
 
   <td colspan="4"></td>
   </tr>
