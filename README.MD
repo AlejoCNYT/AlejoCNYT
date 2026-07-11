@@ -552,6 +552,75 @@ I'm currently open to internships, research collaborations, and open-source cont
         </td>
         <td colspan="2"></td>
       </tr>
+
+      <tr>
+        <td align="center" width="120">
+          <a href="https://chat.openai.com" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://www.anthropic.com/index/claude" target="_blank">
+            <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude AI" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://gemini.google.com" target="_blank">
+            <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini AI" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://www.deepseek.com/" target="_blank">
+            <img src="https://www.google.com/s2/favicons?sz=128&domain=deepseek.com" alt="DeepSeek AI" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://kimi.moonshot.cn/" target="_blank">
+            <img src="https://www.google.com/s2/favicons?sz=128&domain=kimi.moonshot.cn" alt="Kimi AI" width="65" height="65"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="120">
+          <a href="https://x.ai" target="_blank">
+            <img src="https://cdn.simpleicons.org/x/000000" alt="Grok xAI" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://mistral.ai" target="_blank">
+            <img src="https://cdn.simpleicons.org/mistralai/FA520F" alt="Mistral AI" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://www.perplexity.ai" target="_blank">
+            <img src="https://www.google.com/s2/favicons?sz=128&domain=perplexity.ai" alt="Perplexity AI" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://qwenlm.github.io" target="_blank">
+            <img src="https://www.google.com/s2/favicons?sz=128&domain=qwenlm.github.io" alt="Qwen AI" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://www.llama.com" target="_blank">
+            <img src="https://cdn.simpleicons.org/meta/0866FF" alt="Llama AI (Meta)" width="65" height="65"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td align="center" width="120">
+          <a href="https://notebooklm.google" target="_blank">
+            <img src="https://www.google.com/s2/favicons?sz=128&domain=notebooklm.google" alt="NotebookLM" width="65" height="65"/>
+          </a>
+        </td>
+        <td align="center" width="120">
+          <a href="https://openai.com/codex" target="_blank">
+            <img src="https://www.google.com/s2/favicons?sz=128&domain=openai.com" alt="Codex (OpenAI)" width="65" height="65"/>
+          </a>
+        </td>
+        <td colspan="3"></td>
+      </tr>
+
     </tbody>
 </table>
 
