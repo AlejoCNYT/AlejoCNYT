@@ -434,24 +434,13 @@ I'm currently open to internships, research collaborations, and open-source cont
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="65" height="65"/>
       </a>
     </td>
-            <td align="center" width="120">
-          <a href="https://en.wikipedia.org/wiki/Binary_search_algorithm" target="_blank">
-            <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="Binary Search" width="65" height="65"/>
-          </a>
-        </td>
-        <td align="center" width="120">
-          <a href="https://icpc.global/" target="_blank">
-            <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" alt="Competitive Programming / Algorithms" width="65" height="65"/>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="120">
-          <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
-            <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" alt="Data Structures" width="65" height="65"/>
-          </a>
-        </td>
-        <td colspan="4"></td>
+<td align="center" width="120">
+  <a href="https://scipy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scipy/scipy-original.svg" alt="SciPy" width="65" height="65"/>
+  </a>
+</td>
+
+  <td colspan="4"></td>
   </tr>
 </table>
 
