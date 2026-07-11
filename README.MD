@@ -502,44 +502,12 @@ I'm currently open to internships, research collaborations, and open-source cont
           </a>
         </td>
         <td align="center" width="120">
-          <a href="https://chat.openai.com" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="65" height="65"/>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="120">
-          <a href="https://www.anthropic.com/index/claude" target="_blank">
-            <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude AI" width="65" height="65"/>
-          </a>
-        </td>
-        <td align="center" width="120">
-          <a href="https://gemini.google.com" target="_blank">
-            <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini AI" width="65" height="65"/>
-          </a>
-        </td>
-        <td align="center" width="120">
-          <a href="https://www.deepseek.com/" target="_blank">
-            <img src="https://www.google.com/s2/favicons?sz=128&domain=deepseek.com" alt="DeepSeek AI" width="65" height="65"/>
-          </a>
-        </td>
-        <td align="center" width="120">
-          <a href="https://kimi.moonshot.cn/" target="_blank">
-            <img src="https://www.google.com/s2/favicons?sz=128&domain=kimi.moonshot.cn" alt="Kimi AI" width="65" height="65"/>
-          </a>
-        </td>
-        <td align="center" width="120">
-          <a href="https://x.ai" target="_blank">
-            <img src="https://cdn.simpleicons.org/x/000000" alt="Grok xAI" width="65" height="65"/>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="120">
           <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="65" height="65"/>
           </a>
         </td>
+      </tr>
+      <tr>
         <td align="center" width="120">
           <a href="https://www.gnu.org/software/octave/" target="_blank">
             <img src="https://cdn.simpleicons.org/gnu/0790C0" alt="GNU Octave" width="65" height="65"/>
@@ -550,9 +518,20 @@ I'm currently open to internships, research collaborations, and open-source cont
             <img src="https://cdn.simpleicons.org/wolframlanguage/DD1100" alt="Mathematica" width="65" height="65"/>
           </a>
         </td>
-        <td colspan="2"></td>
+        <td colspan="3"></td>
       </tr>
+    </tbody>
+</table>
 
+<br>
+
+<table align="center">
+    <thead>
+      <tr>
+        <th colspan="5">🤖 AI Tools & Assistants</th>
+      </tr>
+    </thead>
+    <tbody>
       <tr>
         <td align="center" width="120">
           <a href="https://chat.openai.com" target="_blank">
