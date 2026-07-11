@@ -597,7 +597,12 @@ I'm currently open to internships, research collaborations, and open-source cont
             <img src="https://www.google.com/s2/favicons?sz=128&domain=openai.com" alt="Codex (OpenAI)" width="65" height="65"/>
           </a>
         </td>
-        <td colspan="3"></td>
+        <td align="center" width="120">
+          <a href="https://www.cursor.com" target="_blank">
+            <img src="https://www.google.com/s2/favicons?sz=128&domain=cursor.com" alt="Cursor" width="65" height="65"/>
+          </a>
+        </td>
+        <td colspan="2"></td>
       </tr>
     </tbody>
 </table>
