@@ -523,7 +523,7 @@ I'm currently open to internships, research collaborations, and open-source cont
     </tbody>
 </table>
 
-<br>
+---
 
 <table align="center">
     <thead>
