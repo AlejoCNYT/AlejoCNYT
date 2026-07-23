@@ -611,9 +611,9 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ## 📂 Featured Projects
 
-* **Handle Radar Anomalies** – Anomaly detection system for radar signal data
+* **Radar de Latencia & Alertas** – Distributed observability system deployed on AWS, with 3 microservices (ingestor, analyzer, dashboard), real-time anomaly detection (Z-score/IQR), Prometheus + Alertmanager integration, and live WebSocket dashboard with SLO tracking
 
-  [Full Repository](https://github.com/AlejoCNYT/handle-radar-anomalies)
+  [Demo & Contributions](https://github.com/AlejoCNYT/handle-radar-anomalies)
 
 * **Econexion eco-app** - Full-stack marketplace using Spring Boot, React/React Native & WebSocket — JWT authentication, SQL/NoSQL support, and real-time chat & orders.
 
