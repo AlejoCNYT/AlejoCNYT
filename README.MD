@@ -611,6 +611,10 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ## 📂 Featured Projects
 
+* **Handle Radar Anomalies** – Anomaly detection system for radar signal data
+
+  [Full Repository](https://github.com/AlejoCNYT/handle-radar-anomalies)
+
 * **Econexion eco-app** - Full-stack marketplace using Spring Boot, React/React Native & WebSocket — JWT authentication, SQL/NoSQL support, and real-time chat & orders.
 
   [Full Repository](https://github.com/Eco-nexion)
