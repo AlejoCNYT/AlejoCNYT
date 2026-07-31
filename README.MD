@@ -222,7 +222,28 @@ I'm currently open to internships, research collaborations, and open-source cont
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="65" height="65"/><br>
       </a>
     </td>
+    <td align="center">
+      <a href="https://kotlinlang.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dart.dev/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://go.dev/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="65" height="65"/><br>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.apple.com/swift/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="65" height="65"/><br>
+      </a>
+    </td>
   </tr>
+  
 </table>
 
 ---
