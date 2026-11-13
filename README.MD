@@ -466,8 +466,39 @@ I'm currently open to engineering roles, consulting, and research collaborations
         <img src="https://cdn.simpleicons.org/scipy/8CAAE6" alt="SciPy" width="65" height="65"/>
       </a>
     </td>
-
-  <td colspan="4"></td>
+    <td align="center" width="120">
+      <a href="https://jupyter.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://seaborn.pydata.org/" target="_blank">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://docs.xarray.dev/" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/8286219?s=200&v=4" alt="xarray" width="65" height="65"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.statsmodels.org/" target="_blank">
+        <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" alt="Statsmodels" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://scikit-image.org/" target="_blank">
+        <img src="https://scikit-image.org/_static/img/logo.png" alt="scikit-image" width="65" height="65"/>
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://ipython.org/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/IPython_Logo.svg" alt="IPython" width="65" height="65"/>
+      </a>
+    </td>
+    <td colspan="4"></td>
   </tr>
 </table>
 
