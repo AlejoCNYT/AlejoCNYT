@@ -14,17 +14,23 @@
 
 ---
 
+🎓 Computational Science & AI Engineer | Software & Data Engineer | Cloud & IoT
+
 ## 🚀 About Me
 
-Hi there! I'm Daniel Alejandro Acero, a systems engineering student passionate about building smart, efficient, and ethical solutions through technology. I focus on artificial intelligence & data science, software development, and cybersecurity, with a strong curiosity for the intersection of systems, economics, and innovation.
+Hi there! I'm Daniel Alejandro Acero, a Computational Science & AI Engineer passionate about building smart, scalable, and ethical solutions through technology. I focus on artificial intelligence, scientific computing, software architecture, and cybersecurity, with a strong curiosity for the intersection of complex systems, economics, and innovation.
 
-I value continuous learning and love staying up to date through MOOCs, seminars, bootcamps, and self-directed study. I'm also passionate about aviation and japanese martial arts, which sharpen my discipline and focus. In my free time, I enjoy reading nonfiction, exploring generative art, and playing strategic games like bridge.
+I value continuous learning and love staying up to date through graduate research, seminars, and self-directed study. I'm also passionate about aviation and Japanese martial arts, which sharpen my discipline and focus. In my free time, I enjoy reading nonfiction, exploring generative art, and playing strategic games like bridge.
+
+## 🔭 Areas of Interest
+
+I'm currently open to engineering roles, consulting, research collaborations, and open-source contributions focused on:
 
 ---
 
 ## 🔭 Areas of Interest
 
-I'm currently open to internships, research collaborations, and open-source contributions focused on:
+I'm currently open to engineering roles, consulting, and research collaborations focused on:
 
 <details>
 <summary>🤖 <strong>Artificial Intelligence & Data Science</strong></summary>
@@ -145,7 +151,7 @@ I'm currently open to internships, research collaborations, and open-source cont
 
 ---
 
-> “Engineering solutions with code, ethics and impact.”
+> "If you could make one wish, what would you ask for? Let's build it." 🪄
 
 ---
 <table align="center">
