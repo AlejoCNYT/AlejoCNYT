@@ -394,7 +394,7 @@ I'm currently open to engineering roles, consulting, and research collaborations
     </td>
     <td align="center" width="120">
       <a href="https://aws.amazon.com/redshift/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS Redshift" width="65" height="65"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Redshift" width="65" height="65"/>
       </a>
     </td>
     <td align="center" width="120">
@@ -476,9 +476,9 @@ I'm currently open to engineering roles, consulting, and research collaborations
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="65" height="65"/>
       </a>
     </td>
-<td align="center" width="120">
+    <td align="center" width="120">
       <a href="https://docs.xarray.dev/" target="_blank">
-        <img src="https://raw.githubusercontent.com/pydata/xarray/main/doc/_static/dataset-diagram-logo.png" alt="xarray" width="65" height="65"/>
+        <img src="https://raw.githubusercontent.com/pydata/xarray/main/doc/_static/logos/Xarray_Icon_Final.svg" alt="xarray" width="65" height="65"/>
       </a>
     </td>
   </tr>
