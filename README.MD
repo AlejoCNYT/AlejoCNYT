@@ -22,10 +22,6 @@ Hi there! I'm Daniel Alejandro Acero, a Computational Science & AI Engineer pass
 
 I value continuous learning and love staying up to date through graduate research, seminars, and self-directed study. I'm also passionate about aviation and Japanese martial arts, which sharpen my discipline and focus. In my free time, I enjoy reading nonfiction, exploring generative art, and playing strategic games like bridge.
 
-## 🔭 Areas of Interest
-
-I'm currently open to engineering roles, consulting, research collaborations, and open-source contributions focused on:
-
 ---
 
 ## 🔭 Areas of Interest
